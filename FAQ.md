@@ -90,7 +90,7 @@ If you are interested in sponsoring Pixels Camp, please [contact us](mailto:pixe
 You can not engage in direct recruitment activities during Pixels Camp. The participants don't enjoy it, and we don't want to turn the event into a battlefield for hires. It's OK if the interest is mutual and both parties want to talk; it's definitely not OK if you're just preaching to the crowd or asking everybody to see you get someone interested.
 
 
-**Can I leave a few fliers on the tables to advertise my group/event/company?**  
+**Can I leave a few flyers on the tables to advertise my group/event/company?**  
 That would depend on what you're advertising. Talk to us at [pixelscamp@brpx.com](mailto:pixelscamp@brpx.com).
 
 
