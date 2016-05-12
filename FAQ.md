@@ -4,7 +4,7 @@
 # [Pixels Camp 2016](https://pixels.camp) F.A.Q.
 
 
-It's normal for those attending, to have a few questions or concerns. We'll try to address most of them here.
+It's normal for those attending to have a few questions or concerns. We'll try to address most of them here.
 
 
 ### GENERAL
@@ -81,7 +81,7 @@ English is the official language, and we encourage it, but it's optional for par
 
 
 **I am interested in exhibiting or becoming a sponsor, what do I do?**  
-If you are interested in sponsoring Pixels Camp, please [contact us](mailto:pixelscamp@brpx.com) for a prospectus and sponsorship application instructions.
+If you are interested in sponsoring Pixels Camp, please [contact us](mailto:org@pixels.camp) for a prospectus and sponsorship application instructions.
 
 
 ### ADVERTISING AND RECRUITING
@@ -91,7 +91,7 @@ You can not engage in direct recruitment activities during Pixels Camp. The part
 
 
 **Can I leave a few flyers on the tables to advertise my group/event/company?**  
-That would depend on what you're advertising. Talk to us at [pixelscamp@brpx.com](mailto:pixelscamp@brpx.com).
+That would depend on what you're advertising. Talk to us at [org@pixels.camp](mailto:org@pixels.camp).
 
 
 ***
