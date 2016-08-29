@@ -1,3 +1,5 @@
+![Header](https://raw.githubusercontent.com/PixelsCamp/pixels_camp_2016/master/img/pxc_slack.png)
+
 # Using Slack
 
 Pixels Camp's organization provides a Slack instance to their approved attendees as yet another communication channel to help the community to take best from the event. This guide provides a policy and some guidelines on how to use Slack in this context.
