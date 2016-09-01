@@ -34,7 +34,7 @@ Hundreds of people in a chatroom can be quite noisy. Mostly, we want it to be us
 
 **Jibber-jabber, can I?**
 
-We understand. You get all excited with bots, memes, giphy images and tasteless jokes about programmings languages you don't use or understand. We want you to express yourself in creative ways, even if no one is listening, so there's the #random channel for that. Go for it.
+We understand. You get all excited with bots, memes, giphy images and tasteless jokes about programming languages you don't use or understand. We want you to express yourself in creative ways, even if no one is listening, so there's the #random channel for that. Go for it.
 
 Optionally, you can create your own public or private channel and invite your pals to join you. That might work too.
 
