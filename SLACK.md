@@ -42,6 +42,12 @@ Optionally, you can create your own public or private channel and invite your pa
 
 The organization provides you an official public **#announcements** channel. Subscribe to it when you log in. We'll use this channel to broadcast important messages before and during Pixels Camp.
 
+**Use the same nickname**
+
+The whole point of this is to promote interaction and networking between the participants of Pixels Camp, which means we should aim for some level of knowledge and transparency about everyone on Slack. We won't ask to expose your email; you probably wouldn't like that, but we're going to ask you to use the **same nickname you've used when you registered** for Pixels Camp (which is the same as your Github account). 
+
+We can't enforce this technically, but we're expecting you to comply.
+
 ### INVITES
 
 **How do I get in?**
