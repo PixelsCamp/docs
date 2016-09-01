@@ -42,8 +42,16 @@ Optionally, you can create your own public or private channel and invite your pa
 
 The organization provides you an official public **#announcements** channel. Subscribe to it when you log in. We'll use this channel to broadcast important messages before and during Pixels Camp.
 
+### INVITES
+
+**How do I get in?**
+
+To get in, please fill up [this form][5]. Please remember that your E-mail must match the one you used to apply to Pixels Camp (which should be the same as your Github account), and you must be an approved attendee already. Note that invites will be sent sequentialy and as possible. Slack has strict [limitations][6] on the number of invites you can send by period of time.
+
 
 [1]: https://slack.com/is
 [2]: https://twitter.com/pixelscamp
 [3]: https://www.instagram.com/pixelscamp/
 [4]: https://www.facebook.com/pxlscmp/
+[5]: https://brpx.typeform.com/to/W3IeHK
+[6]: https://get.slack.help/hc/en-us/articles/201330256-Inviting-new-members-to-your-Slack-team#invitation-limits
