@@ -24,7 +24,7 @@ It is also a big social experiment, and we're not completely sure it will work. 
 
 **I don't want to miss a beat, what are my other options?**
 
-We use E-mail for every critical message. We use a few social networks too. [Facebook][4] works nicely for general messages and announcements. We use [Instagram][3] because, er, it's cool and everyone loves great photos. Finally, we use [Twitter][2], our favorite, which is useful for real-time communication, announcements, and important messages. You should follow our [Twitter account][2] anyhow.
+We use email for every critical message. We use a few social networks too. [Facebook][4] works nicely for general messages and announcements. We use [Instagram][3] because, er, it's cool and everyone loves great photos. Finally, we use [Twitter][2], our favorite, which is useful for real-time communication, announcements, and important messages. You should follow our [Twitter account][2] anyhow.
 
 ### CODE OF CONDUCT
 
@@ -46,7 +46,7 @@ The organization provides you an official public **#announcements** channel. Sub
 
 **How do I get in?**
 
-To get in, please fill up [this form][5]. Please remember that your E-mail must match the one you used to apply to Pixels Camp (which should be the same as your Github account), and you must be an approved attendee already. Note that invites will be sent sequentially and as possible. Slack has strict [limitations][6] on the number of invites you can send per period of time.
+To get in, please fill up [this form][5]. Please remember that your email must match the one you used to apply to Pixels Camp (which should be the same as your Github account), and you must be an approved attendee already. Note that invites will be sent sequentially and as possible. Slack has strict [limitations][6] on the number of invites you can send per period of time.
 
 
 [1]: https://slack.com/is
