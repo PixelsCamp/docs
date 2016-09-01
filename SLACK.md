@@ -28,7 +28,7 @@ We use E-mail for every critical message. We use a few social networks too. [Fac
 
 ### CODE OF CONDUCT
 
-**No shouting please**
+**No shouting, please**
 
 Hundreds of people in a chatroom can be quite noisy. Mostly, we want it to be useful. This means we have to be extra careful with anything that potentially triggers a notification, or ultimately, your precious attention. For caution, **@channel**, **@here** and **@everyone** are disabled to the public. When using the crowded default **#general** channel, please speak only when you have something to say.
 
@@ -46,7 +46,7 @@ The organization provides you an official public **#announcements** channel. Sub
 
 **How do I get in?**
 
-To get in, please fill up [this form][5]. Please remember that your E-mail must match the one you used to apply to Pixels Camp (which should be the same as your Github account), and you must be an approved attendee already. Note that invites will be sent sequentialy and as possible. Slack has strict [limitations][6] on the number of invites you can send by period of time.
+To get in, please fill up [this form][5]. Please remember that your E-mail must match the one you used to apply to Pixels Camp (which should be the same as your Github account), and you must be an approved attendee already. Note that invites will be sent sequentially and as possible. Slack has strict [limitations][6] on the number of invites you can send per period of time.
 
 
 [1]: https://slack.com/is
