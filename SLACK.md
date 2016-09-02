@@ -28,6 +28,10 @@ We use email for every critical message. We use a few social networks too. [Face
 
 ### CODE OF CONDUCT
 
+**Use English**
+
+Whenever possible, especially in **#general**, use English.
+
 **No shouting, please**
 
 Hundreds of people in a chatroom can be quite noisy. Mostly, we want it to be useful. This means we have to be extra careful with anything that potentially triggers a notification, or ultimately, your precious attention. For caution, **@channel**, **@here** and **@everyone** are disabled to the public. When using the crowded default **#general** channel, please speak only when you have something to say.
