@@ -52,6 +52,10 @@ The whole point of this is to promote interaction and networking between the par
 
 We can't enforce this technically, but we're expecting you to comply.
 
+**Use a real photo**
+
+Read above on the nickname arguments. Use a real photo of yourself.
+
 ### INVITES
 
 **How do I get in?**
