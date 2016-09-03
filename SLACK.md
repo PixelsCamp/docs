@@ -28,6 +28,10 @@ We use email for every critical message. We use a few social networks too. [Face
 
 ### CODE OF CONDUCT
 
+**Use English**
+
+Whenever possible, especially in **#general**, use English.
+
 **No shouting, please**
 
 Hundreds of people in a chatroom can be quite noisy. Mostly, we want it to be useful. This means we have to be extra careful with anything that potentially triggers a notification, or ultimately, your precious attention. For caution, **@channel**, **@here** and **@everyone** are disabled to the public. When using the crowded default **#general** channel, please speak only when you have something to say.
@@ -47,6 +51,10 @@ The organization provides you an official public **#announcements** channel. Sub
 The whole point of this is to promote interaction and networking between the participants of Pixels Camp, which means we should aim for some level of knowledge and transparency about everyone on Slack. We won't ask to expose your email; you probably wouldn't like that, but we're going to ask you to use the **same nickname you've used when you registered** for Pixels Camp (which is the same as your Github account). 
 
 We can't enforce this technically, but we're expecting you to comply.
+
+**Use a real photo**
+
+Read above on the nickname arguments. Use a real photo of yourself.
 
 ### INVITES
 
