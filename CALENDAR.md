@@ -33,7 +33,19 @@ Open your default Calendar.app
 
 Go to Menu > File > New Calendar Subscription
 
+![Screenshot](https://github.com/PixelsCamp/pixels_camp_2016/blob/master/img/osx_start.png?raw=true)
 
+Enter the .ics endpoint https://api.pixels.camp/calendar/cal.ics
+
+In the Location you can either choose "On My Mac" or iCloud (and then you'll have it in your iOS devices too)
+
+Make sure it Auth-refreshes every hour
+
+![Screenshot](https://github.com/PixelsCamp/pixels_camp_2016/blob/master/img/osx_settings.png?raw=true)
+
+And you're done
+
+![Screenshot](https://github.com/PixelsCamp/pixels_camp_2016/blob/master/img/osx_subscribed.png?raw=true)
 
 ### iPhone iOS: Calendar
 
