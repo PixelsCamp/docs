@@ -49,6 +49,24 @@ And you're done
 
 ### iPhone iOS: Calendar
 
+Subscribing calendars directly on the iPhone/iPad is surprisingly hard and very well hidden. But there's a way.
+
+Launch the **Settings app** and tap on **Mail, Contacts, Calendars**.
+
+Tap on **Add Account**, under the Mail section.
+
+Tap on **Other**.
+
+Tap on **Add Subscribed Calendar** under the Other section.
+
+Enter the .ics endpoint https://api.pixels.camp/calendar/cal.ics
+
+Tap Next and you're done.
+
+You can't specify the auto-refresh time like on OSX, but we guess it's frequent.
+
+![Screenshot](https://github.com/PixelsCamp/pixels_camp_2016/blob/master/img/ios_calendar.png?raw=true)
+
 ## Improve this
 
 If you want to improve this page with more devices then go ahead and make a pull request. Make it clear and pretty.
