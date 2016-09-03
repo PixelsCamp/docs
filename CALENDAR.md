@@ -16,7 +16,9 @@ We provide two endpoints for the calendar:
 The **DESCRIPTION** field has been extended to support a few extra attributes we need using a readable simple syntax. Here's how:
 
 ```
-This is the talk long description text. Awesome talk about security, progressive web apps, conversational bots, productivity tools and whatnot, all in one, presented by two speakers.
+This is the talk long description text.
+Awesome talk about security, progressive web apps, conversational bots,
+productivity tools and whatnot, all in one, presented by two speakers.
 
 [speaker: John Doe, https://pixels.camp/doe]
 [speaker: Mad Max, https://pixels.camp/madmax]
@@ -26,6 +28,12 @@ This is the talk long description text. Awesome talk about security, progressive
 ## Subscribe the calendar in your device
 
 ### Mac OSX: Calendar
+
+Open your default Calendar.app
+
+Go to Menu > File > New Calendar Subscription
+
+
 
 ### iPhone iOS: Calendar
 
