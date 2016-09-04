@@ -26,6 +26,12 @@ It is also a big social experiment, and we're not completely sure it will work. 
 
 We use email for every critical message. We use a few social networks too. [Facebook][4] works nicely for general messages and announcements. We use [Instagram][3] because, er, it's cool and everyone loves great photos. Finally, we use [Twitter][2], our favorite, which is useful for real-time communication, announcements, and important messages. You should follow our [Twitter account][2] anyhow.
 
+**The message notifications are taking my focus away and draining my battery**
+
+We have good news for you. Slack has marvelous controls over notification settings, per channel, if you need to. Here's something you can start by doing: turning off notifications in the #general channel unless there's a mention of yourself.
+
+![Screenshot](https://github.com/PixelsCamp/pixels_camp_2016/blob/master/img/slacksettings.png?raw=true)
+
 ### CODE OF CONDUCT
 
 **Use English**
