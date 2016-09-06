@@ -67,6 +67,19 @@ You can't specify the auto-refresh time like on OSX, but we guess it's frequent.
 
 ![Screenshot](https://github.com/PixelsCamp/pixels_camp_2016/blob/master/img/ios_calendar.png?raw=true)
 
+### Android/Google Calendar
+
+You can't subscribe calendars directly using the Google Calendar app on Android. Instead, go to http://calendar.google.com and follow these steps:
+
+On the left side, find "Other calendars" and click the down arrow.
+
+Select Add by URL.
+
+Enter the calendar's address https://api.pixels.camp/calendar/cal.ics in the field provided.
+
+Click Add calendar. The calendar will appear on the left side under "Other calendars" and also on your Android device.
+
+
 ## Improve this
 
 If you want to improve this page with more devices then go ahead and make a pull request. Make it clear and pretty.
