@@ -24,7 +24,7 @@ If possible, do let your volunteer know about your microphone choice in advance.
 
 Yes, at least three things.
 
-When doing Q&A, if an attendee asks you something without a microphone, please try to repeat the question for the camera; there’s people watching live and the recording will be up a bit later.
+When doing Q&A, if an attendee asks you something without a microphone, please try to repeat the question for the camera; there’re people watching live and the recording will be up a bit later.
 
 If you can, we’d appreciate that you’d send your slides to your volunteer after your talk, so we can upload them to the website.
 
