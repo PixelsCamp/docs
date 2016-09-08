@@ -29,3 +29,9 @@ When doing Q&A, if an attendee asks you something without a microphone, please t
 If you can, we’d appreciate that you’d send your slides to your volunteer after your talk, so we can upload them to the website.
 
 Also, try to stick to your proposed talk; a technical presentation that evolves into a recruitment pitch is usually not seen with good eyes by most people.
+
+### There's a template for my presentation?
+
+We don't provide templates, but you can find some [graphical materials here][1]. Feel free to use them.
+
+[1]: https://www.dropbox.com/sh/435ozo55bqr9n5t/AAA-Vff5SJ12Om0wFDFwiJ82a?dl=0
