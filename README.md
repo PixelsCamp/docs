@@ -7,6 +7,7 @@ Important documents for Pixels Camp:
 * [Speakers FAQ][5]
 * [Using Slack][4]
 * [Pixels Camp Challenge][6] (Programming Contest)
+* [Press kit][7]
 
 ## Other Links
 
@@ -18,3 +19,4 @@ Important documents for Pixels Camp:
 [4]: https://github.com/PixelsCamp/docs/blob/master/SLACK.md
 [5]: https://github.com/PixelsCamp/docs/blob/master/SPEAKERS.md
 [6]: https://github.com/PixelsCamp/docs/blob/master/CHALLENGE.md
+[7]: https://www.dropbox.com/sh/435ozo55bqr9n5t/AAA-Vff5SJ12Om0wFDFwiJ82a?dl=0
