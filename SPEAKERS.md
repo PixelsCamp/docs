@@ -20,6 +20,14 @@ Hopefully, there will also be attendees, one of whom should be your appointed Pi
 
 If possible, do let your volunteer know about your microphone choice in advance.
 
+### What kind of video projectors can I expect?
+
+You can find professional video projectors in all stages, they all use the 16:9 ratio and they accept digital video input using an HDMI connector.
+
+If your laptop doesn't have an HDMI port, then, for security, you should bring an adapter with you.
+
+We will provide video adapters to speakers if they don't have one, but it will be on a best-effort, first-come-first-served basis.
+
 ### Anything else regarding my talk?
 
 Yes, at least three things.
