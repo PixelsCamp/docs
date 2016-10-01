@@ -4,6 +4,7 @@ Important documents for Pixels Camp:
 
 * [Frequently Asked Questions][2]
 * [How to add the Pixels Camp calendar][3]
+* [Lightning Talks][8]
 * [Speakers FAQ][5]
 * [Using Slack][4]
 * [Pixels Camp Challenge][6] (Programming Contest)
@@ -20,3 +21,4 @@ Important documents for Pixels Camp:
 [5]: https://github.com/PixelsCamp/docs/blob/master/SPEAKERS.md
 [6]: https://github.com/PixelsCamp/projects
 [7]: https://www.dropbox.com/sh/435ozo55bqr9n5t/AAA-Vff5SJ12Om0wFDFwiJ82a?dl=0
+[8]: https://github.com/PixelsCamp/docs/blob/master/LIGHTNING.md
