@@ -15,7 +15,7 @@ Lightning Talks will take place in the Chill-out zone after 5 pm on Thursday and
 The process to submit a Lightning Talk is easy and informal:
 
 * Go to [Slack's][1] channel #lightning_talks and just say something along these lines: "Hi, I would like to do a Lightning Talk on Machine Learning for Cows."
-* The Lightning Talks master, [Bruno Tavares][2] or [José Pedro Dias][5] will enter in a conversation with you and you will be assigned a day and hour.
+* One of the Lightning Talks masters, [Bruno Tavares][2] or [José Pedro Dias][5] will enter in a conversation with you and you will be assigned a day and hour.
 * The list of Talks will be posted on the event website [schedule page][4] for everyone to look.
 * We will use [Slack][1], [Twitter][4] and the venue's digital signage system to announce Lightning Talks when they come. You can do the same yourself.
 
