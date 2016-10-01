@@ -1,5 +1,7 @@
 # Lightning Talks
 
+![Screenshot](https://github.com/PixelsCamp/docs/blob/master/img/lightning.png?raw=true)
+
 In addition to traditional talks, Pixels Camp will have a segment for lightning talks.
 
 Lightning talks are short (5 minutes) presentations where you can share your thoughts on any subject. Maybe you want to demonstrate your latest project or share an idea you had, just try to keep it inside the Pixels Camp spirit.
