@@ -14,7 +14,7 @@ Do keep in mind that attendees need to have some minutes to spare to grab someth
 
 ### What sort of logistics will be available for my presentation?
 
-A projector, an ethernet cable (there’s also wifi available), VGA and HDMI adapters, an audio jack (should you want to play a movie with sound during your presentation) and an assortment of microphones of which you can choose from: a Lavalier microphone, a Headset, a hand microphone and another microphone on the pulpit.
+A projector, an ethernet cable (there’s also wifi available), VGA and Display Port adapters, an audio jack (should you want to play a movie with sound during your presentation) and an assortment of microphones of which you can choose from: a Lavalier microphone, a Headset, a hand microphone and another microphone on the pulpit.
 
 Hopefully, there will also be attendees, one of whom should be your appointed Pixels Camp volunteer. If any technical problem should arise during your presentation, this person will either solve it or find someone else to do so.
 
