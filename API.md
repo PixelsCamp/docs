@@ -6,7 +6,7 @@
 
     POST /users/auth
 
-You will need to send the following header 'Authorization: <auth_token>'
+You will need to send the following header 'Authorization: auth_token'
 
 You will receive the user data, and cookie named sessionid, this cookie should be used for authenticated requests
 
