@@ -44,3 +44,5 @@
     GET /badges/redeem/:login/:redeem_code
 
 
+
+Feel free to contribute
