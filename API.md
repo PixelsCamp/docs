@@ -10,6 +10,8 @@
 
     You will receive the user data, and cookie named sessionid, this cookie should be used for authenticated requests
 
+    Your auth_token is available on yout profile page
+
 
 ## User private info ( Authenticated )
 
