@@ -6,11 +6,11 @@
 
     POST /users/auth
 
-    You will need to send the following header 'Authorization: <auth_token>'
+You will need to send the following header 'Authorization: <auth_token>'
 
-    You will receive the user data, and cookie named sessionid, this cookie should be used for authenticated requests
+You will receive the user data, and cookie named sessionid, this cookie should be used for authenticated requests
 
-    Your auth_token is available on yout profile page
+Your auth_token is available on yout profile page
 
 
 ## User private info ( Authenticated )
@@ -21,14 +21,14 @@
 
     GET /users/[?count=0&offset=10]
 
-    You will receive a list of users
+You will receive a list of users
 
 
 ## User public data ( Non authenticated ) 
 
     GET /users/:login
 
-    You will receive the user public data
+You will receive the user public data
 
     
 ## List badges ( Non authenticated )
