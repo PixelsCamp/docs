@@ -4,7 +4,7 @@
 
 ## Authentication 
 
-    POST /users/auth
+    POST /user/auth
 
 You will need to send the following header 'Authorization: auth_token'
 
