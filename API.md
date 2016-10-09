@@ -10,7 +10,7 @@ You will need to send the following header 'Authorization: auth_token'
 
 You will receive the user data, and cookie named sessionid, this cookie should be used for authenticated requests
 
-Your auth_token is available on yout profile page
+Your auth_token is available on your profile page
 
 
 ## User private info ( Authenticated )
