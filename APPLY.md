@@ -1,4 +1,4 @@
-# How to apply to Pixes Camp
+# How to apply to Pixels Camp
 
 Applying to Pixels Camp is one of the most important steps towards spending three days with an amazing community of developers and tech enthusiasts in an unforgettable experience of hacking, learning, sharing and having fun.
 
