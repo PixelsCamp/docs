@@ -1,4 +1,4 @@
-# How to apply to Pixes Camp
+# How to apply to Pixels Camp
 
 Applying to Pixels Camp is one of the most important steps towards spending three days with an amazing community of developers and tech enthusiasts in an unforgettable experience of hacking, learning, sharing and having fun.
 
@@ -15,7 +15,7 @@ When applying, we're going to ask you some contact information, and two critical
 
 On your public bio you should reference who you are, what you do, and how can the community reach you (you blog, twitter, etc.). Everyone can see this. Think of it as your welcome card.
 
-On the *private* registration pitch you should spend some time perfecting your answer. This is where we need effort and detail. Think of the pitch as the place where you describe your history in tech world to us, your best work and acomplishments, what excites you when you look at the future,  what's your motivation to be at Pixels Camp and why should we accept your application.
+On the *private* registration pitch you should spend some time perfecting your answer. This is where we need effort and detail. Think of the pitch as the place where you describe your history in tech world to us, your best work and accomplishments, what excites you when you look at the future,  what's your motivation to be at Pixels Camp and why should we accept your application.
 
 Here's a quick checklist of information we need in the pitch:
 
