@@ -16,11 +16,11 @@ Here’s how it works:
 
 ## The form
 
-To host the Campfire and initiate the process, start by opening up an issue in this repository, using the label *campfire*, using [this template][4].
+To host the Campfire and initiate the process, start by opening up an issue in this repository, using the label *campfire*, using [this template][4]. Or, if you want to keep the discussion private, send us [an email][11] with the same information, and we'll followup on it.
 
-The team will then use the comments section of that issue to discuss the details with you.
+In the case of the public issue ticket, the team will then use the comments section to discuss the details with you.
 
-Once the details are ironed out, your campfire will be posted in the [general calendar][5] and we'll handle promotion, streaming and archiving for you.
+Once the details are ironed out, your campfire will be posted in the [general calendar][5] and we'll handle promotion, streaming and archiving the best we can.
 
 ## Promotion
 
@@ -49,3 +49,4 @@ Check our [FAQ][1] for more answers.
 [8]: https://raw.githubusercontent.com/PixelsCamp/docs/master/brand/pixelscamp.svg
 [9]: https://raw.githubusercontent.com/PixelsCamp/docs/master/brand/campfireMediaKit.zip
 [10]: https://raw.githubusercontent.com/PixelsCamp/docs/master/brand/pixelsMediaKit.zip
+[11]: mailto:org@pixels.camp
