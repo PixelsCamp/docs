@@ -34,6 +34,8 @@ We're relatively liberal when it comes to using the Pixels Camp brand materials 
 
 * [Campfire logo][7]
 * [Pixels Camp logo][8] (SVG)
+* [Campires Media Kit][9] (Zip file]
+* [Pixels Camp Media Kit][10] (Zip file]
 
 Check our [FAQ][1] for more answers.
 
@@ -45,3 +47,5 @@ Check our [FAQ][1] for more answers.
 [6]: https://raw.githubusercontent.com/PixelsCamp/docs/master/img/campfire.png
 [7]: https://raw.githubusercontent.com/PixelsCamp/docs/master/brand/campfire.png
 [8]: https://raw.githubusercontent.com/PixelsCamp/docs/master/brand/pixelscamp.svg
+[9]: https://raw.githubusercontent.com/PixelsCamp/docs/master/brand/campfireMediaKit.zip
+[10]: https://raw.githubusercontent.com/PixelsCamp/docs/master/brand/pixelsMediaKit.zip
