@@ -22,6 +22,19 @@ The team will then use the comments section of that issue to discuss the details
 
 Once the details are ironed out, your campfire will be posted in the [general calendar][5] and we'll handle promotion, streaming and archiving for you.
 
+## Promotion
+
+Promotion is done through our Website, Slack, Social Networks and Newsletter channels. We can reach a community of over 5000 developers.
+
+Each Campfire should create an event page for registrations. Usually, this is done through Eventbrite. The Pixels Camp team can take care of this for you.
+
+## Branding
+
+We're relatively liberal when it comes to using the Pixels Camp brand materials with your Campfire. We have no formal brand guidelines for the moment, just general good sense. Having said this, here are some materials that you can use.
+
+* [Campfire logo][7]
+* [Pixels Camp logo][8] (SVG)
+
 Check our [FAQ][1] for more answers.
 
 [1]: https://github.com/PixelsCamp/docs/blob/master/FAQ.md
@@ -29,3 +42,6 @@ Check our [FAQ][1] for more answers.
 [3]: https://pixels.camp/profile/
 [4]: https://github.com/PixelsCamp/docs/issues/15
 [5]: https://pixels.camp/campfire/
+[6]: https://raw.githubusercontent.com/PixelsCamp/docs/master/img/campfire.png
+[7]: https://raw.githubusercontent.com/PixelsCamp/docs/master/brand/campfire.png
+[8]: https://raw.githubusercontent.com/PixelsCamp/docs/master/brand/pixelscamp.svg
