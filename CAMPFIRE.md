@@ -2,7 +2,7 @@
 
 ![Screenshot](https://github.com/PixelsCamp/pixels_camp_2016/blob/master/img/campfire.png?raw=true)
 
-Campfire Events are all year calendar of tech talks around Portugal and Europe in small venues or office facilities, organized by the Pixels Camp team and their partners.
+Campfire Events are an all year calendar of tech talks around Portugal and Europe in small venues or office facilities, organized by the Pixels Camp team and their partners.
 
 If you feel you should put your mad skills at work and share your knowledge with the community, be it technology, product design, entrepreneurship or your vision about the future, then talk to us. We will provide you with access to thousands of other developers, a stage, video capturing, streaming and a great, engaged audience.
 
@@ -11,12 +11,12 @@ Here’s how it works:
 * The promotor, you, for instance, fills up the form for hosting a Campfire.
 * If you don’t have a place to host your event, we can help through our network of partners and provide you with free access to a number of great spaces with great accessibility and infrastructure.
 * We provide web streaming guidelines and tools.
-* We provide brand use guidelines, do and don’ts, and access to the Pixels Community.
+* We provide brand use guidelines, dos and don'ts, and access to the Pixels Community.
 * We promote your talk through our channels are make sure everyone knows about it.
 
 ## The form
 
-To host the Campfire and initiate the process, start by opening up an issue in this repository, using the label *campfire*, using [this template][4]. Or, if you want to keep the discussion private, send us [an email][11] with the same information, and we'll followup on it.
+To host the Campfire and initiate the process, start by opening up an issue in this repository, using the label *campfire* and this [template][4]. Or, if you want to keep the discussion private, send us an [email][11] with the same information, and we'll followup on it.
 
 In the case of the public issue ticket, the team will then use the comments section to discuss the details with you.
 
