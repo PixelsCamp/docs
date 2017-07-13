@@ -18,14 +18,19 @@ For sixty hours straight, 1000 participants enjoy world-class presentations, dem
 **Who can attend Pixels Camp?**  
 Pixels Camp is targeted at creative minds. Based on their pitch, bios, and previous work evidence, the curators aim at selecting the best, most participative and motivated programmers and creatives.
 
+**How much does it cost?**
+
+Pixels Camp is free for all selected candidates. 
+
+**Can I register our company employees in bulk?**
+
+No. Candidates must register and apply individually.
 
 **Can I bring a guest to the event?**  
 No, you can't. 
 
-
 **When will the schedule be available?**  
-A detailed schedule will be available closer to the event, on our website.
-
+A detailed schedule will be available closer to the event, on [our website][1].
 
 **Will there be a live stream from the event?**  
 Yes, live streaming will be available. The feed will be focused on the activities taking place on the main stage, such as talks and contests. When nothing is going on there, you can expect a general transmission of the event.
@@ -97,3 +102,5 @@ That would depend on what you're advertising. Talk to us at [org@pixels.camp](ma
 ***
 
 Still have questions? Issue us a [question](https://github.com/PixelsCamp/pixels_camp_2016/issues/new?labels=question).
+
+[1]: https://pixels.camp/schedule/

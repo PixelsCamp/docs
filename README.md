@@ -1,61 +1,24 @@
-<a href="https://pixels.camp"><img src="https://pixels.camp/img/hero_mask.png" width="350" alt="Pixels Camp"></a>  
-**OCTOBER 6 - 8, 2016, LX FACTORY, LISBON**
+# Pixels Camp Documentation
 
-3 days of non-stop tech, talks, workshops and a 48 hour programming competition
+Important documents for Pixels Camp:
 
-## [Apply Now!](https://pixels.camp/apply/)
-Join us for the opportunity to:
+* [Frequently Asked Questions][2]
+* [How to add the Pixels Camp calendar][3]
+* [Lightning Talks][8]
+* [Speakers FAQ][5]
+* [Using Slack][4]
+* [Pixels Camp Challenge][6] (Programming Contest)
+* [Press kit][7]
 
-**Connect**  
-It's an unique occasion to be sorrounded by some of the most innovative and motivated people in the tech community
+## Other Links
 
-**Learn**  
-It’s amazing talks, from soft to hardware and everything in between, given by famous heavyweights or... you!
+* [Website][1]
 
-**Experiment**  
-It’s hours of workshops so you can get your hands dirty, be it writing code or soldering components to build a robot
-
-**Build**  
-It’s lots of hardware demos, 3D printing, arduinos, robots and all sorts of gadgets, because open hardware is here now!
-
-**Play**  
-It’s a quiz show, a security competition, surprise games, weird culinary experiments and all sorts of geeky fun
-
-**Accelerate**  
-It's the opportunity to enter a post-Pixels acceleration program, and take your project to the next level
-
-
-## Where?
-**LX FACTORY**  
-Edificio J / FÁBRICA XL  
-Rua Rodrigues Faria, 103  
-1300 - 501 Lisboa  
-Portugal
-
-**GPS COORDINATES**  
-Latitude: 38.702085  
-Longitude: -9.178766  
-
-**PUBLIC TRANSPORTATION**  
-**BUS**: 714, 720, 724, 727, 732, 738, 742, 751, 756, 760  
-**TRAM**: 15E, 18E
-
-
-## Call for talks
-Talk proposals are handled through GitHub pull requests. Submit your talk [here](https://github.com/PixelsCamp/pixels_camp_2016_talks#readme).
-
-
-## Links
-* [Website](https://pixels.camp)
-* [Frequently Asked Questions](https://github.com/PixelsCamp/pixels_camp_2016/blob/master/FAQ.md)
-* [Issues](https://github.com/PixelsCamp/pixels_camp_2016/issues)
-
-
-## Follow us
-* [Twitter](https://twitter.com/pixelscamp)
-* [Facebook](https://www.facebook.com/pxlscmp)
-* [Instagram](https://www.instagram.com/pixelscamp)
-
-<br>
-***
-Made with love by [Bright Pixel](https://brpx.com)
+[1]: https://pixels.camp
+[2]: https://github.com/PixelsCamp/docs/blob/master/FAQ.md
+[3]: https://github.com/PixelsCamp/docs/blob/master/CALENDAR.md
+[4]: https://github.com/PixelsCamp/docs/blob/master/SLACK.md
+[5]: https://github.com/PixelsCamp/docs/blob/master/SPEAKERS.md
+[6]: https://github.com/PixelsCamp/projects
+[7]: https://www.dropbox.com/sh/435ozo55bqr9n5t/AAA-Vff5SJ12Om0wFDFwiJ82a?dl=0
+[8]: https://github.com/PixelsCamp/docs/blob/master/LIGHTNING.md
