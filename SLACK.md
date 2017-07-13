@@ -2,7 +2,7 @@
 
 # Using Slack
 
-Pixels Camp's organization provides a Slack instance to their approved attendees as yet another communication channel to help the community to take best from the event. This guide provides a policy and some guidelines on how to use Slack in this context.
+Pixels Camp's organization provides a Slack instance as a communication channel to help the community to take best from the event. This guide provides a policy and some guidelines on how to use Slack in this context.
 
 ### GENERAL
 
@@ -12,7 +12,7 @@ Slack provides a rich text communication platform where its members and teams ca
 
 **Who can use Pixel Camp's Slack**
 
-Only approved Pixel Camp's participants are allowed to use its Slack. Each attendee receives an invitation and decides to use the app, or not.
+We've decided to open our Slack to anyone willing to talk about hard-core tech with the Pixels Camp community. If you fit this profile, then by all means, join us.
 
 **Do I really need to use this?**
 
@@ -66,7 +66,7 @@ Read above on the nickname arguments. Use a real photo of yourself.
 
 **How do I get in?**
 
-To get in, please fill up [this form][5]. Please remember that your email must match the one you used to apply to Pixels Camp (which should be the same as your Github account), and you must be an approved attendee already. Note that invites will be sent sequentially and as possible. Slack has strict [limitations][6] on the number of invites you can send per period of time.
+To get in, please fill up [this form][5]. Note that invites will be sent sequentially and as possible. Slack has strict [limitations][6] on the number of invites you can send per period of time.
 
 
 [1]: https://slack.com/is
