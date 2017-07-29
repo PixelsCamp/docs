@@ -15,6 +15,8 @@ If you want to know more about Ethereum, we suggest you start here:
 
 The Moon Ethereum test network is now up and running. You can connect your favorite client to it, get free ethers and start coding, deploying smart contracts, trading or whatever you feel in the mood to do with it.
 
+The RPC address is http://moon.pixels.camp:8545
+
 ## Our soon to be announced token
 
 We're working to deploy a special token in this test network, managed by a smart contrat we're now testing. Like the badges system, this token will be issued to participants in the proportion of their activity. You'll be able to stuff with it at the event. It will be both fun and useful.
@@ -55,7 +57,7 @@ Now login to your [Pixels Camp account][7] and edit your profile. You'll find a 
 
 ![copy address](img/profile.png)
 
-Go back to Metamask and watch. In a couple of seconds your wallet will show that you own 1000 ethers.
+Go back to Metamask and watch. In 1-2 minutes your wallet will show that you own 1000 ethers.
 
 You're ready.
 
