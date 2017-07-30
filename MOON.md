@@ -23,7 +23,7 @@ We're working to deploy a special token in this test network, managed by a smart
 
 It will be called... well, it's a surprise. More on this real soon.
 
-Meanwhile, here's how you can get your own testnet address and some free ether to start learning and playing.
+Meanwhile, here's how you can get your own testnet address and earn free ether to start learning and playing.
 
 ## Creating an account
 
@@ -61,6 +61,12 @@ Go back to Metamask and watch. In 1-2 minutes your wallet will show that you own
 
 You're ready.
 
+## Blockchain explorer
+
+We provide a public Blockchain explorer at [http://moon.pixels.camp:8547/][9].
+
+It's based on [Etherchain Light][10]. You can use it to browse blocks, transactions, accounts and contracts, upload & verify contract sources and much more.
+
 ## Questions?
 
 Use [Slack][8], channel `#blockchain`. We'll be around.
@@ -77,4 +83,5 @@ This private Ethereum network is mined by our servers and creates a new block ev
 [6]: https://metamask.io/
 [7]: https://pixels.camp/
 [8]: https://github.com/PixelsCamp/docs/blob/master/SLACK.md
-
+[9]: http://moon.pixels.camp:8547/
+[10]: https://github.com/gobitfly/etherchain-light
