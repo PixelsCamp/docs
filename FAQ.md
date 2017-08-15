@@ -1,14 +1,13 @@
 [![Pixels love GitHub](https://pixels.camp/img/pixels_camp_loves_github.svg)](https://pixels.camp)
 
 
-# [Pixels Camp 2016](https://pixels.camp) F.A.Q.
+# [Pixels Camp](https://pixels.camp) F.A.Q.
 
 
 It's normal for those attending to have a few questions or concerns. We'll try to address most of them here.
 
 
 ### GENERAL
-
 
 **What is Pixels Camp?**  
 Pixels Camp is a yearly technology cult event, spanning over three days of non-stop technical talks, workshops, and coding.
