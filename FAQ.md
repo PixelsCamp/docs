@@ -72,7 +72,7 @@ No. The other participants in your team must be approved attendees.
 ### SPEAKERS AND SPONSORS
 
 **I want to be a speaker at the event. How can I propose a talk?**  
-Talks proposals are handled through GitHub pull requests. Follow the instructions [here](https://github.com/PixelsCamp/pixels_camp_2016_talks/blob/master/README.md).
+Talks proposals are handled through GitHub pull requests. Follow the instructions [here][3].
 
 
 **Because english is the official language, should my talk be given in english?**  
@@ -95,6 +95,8 @@ That would depend on what you're advertising. Talk to us at [org@pixels.camp](ma
 
 ***
 
-Still have questions? Issue us a [question](https://github.com/PixelsCamp/pixels_camp_2016/issues/new?labels=question).
+Still have questions? Issue us a [question][2].
 
 [1]: https://pixels.camp/schedule/
+[2]: https://github.com/PixelsCamp/docs/issues/new?labels=question
+[3]: https://github.com/PixelsCamp/talks/blob/master/README.md
