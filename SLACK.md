@@ -62,6 +62,30 @@ We can't enforce this technically, but we're expecting you to comply.
 
 Read above on the nickname arguments. Use a real photo of yourself.
 
+### COMMON CHANNELS
+
+Here's a list of common channels you should be aware of:
+
+#### #announcements
+
+General announcements about Pixels Camp. Everyone should subscribe this. Low traffic.
+
+#### #marketplace
+
+A place where geeks can advertize and sell their stuff to others.
+
+#### #badges
+
+Every badge redeemed will echo in here. High traffic.
+
+#### #jobs
+
+The one and **only** place you can post occasional job offers. Opt in. Remember: Pixels Camp is **not** a recruitment event and recruitment activities are not permitted to sponsors or participants.
+
+#### #hardware
+
+Hardware heads hang out here.
+
 ### INVITES
 
 **How do I get in?**
