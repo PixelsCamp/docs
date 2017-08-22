@@ -44,9 +44,20 @@ Although most of our participants are from Portugal, we have attendees coming fr
 
 ### VENUE AND FACILITIES
 
-**Should I arrange for a place to stay?**  
+**Should I arrange for a place to stay?**
 In the spirit of the event, attendees can choose to stay the night at the venue, sleeping in makeshift beds made of bean bags or such. But if this is not for you, you have many accommodation options elsewhere around. Closer to the event we may announce discounts and partnerships with hotels and hostels in Lisbon.
 
+**Are there hotels nearby?**
+Here's a list of Hotels near Pixels Camp 2017 venue, Pavilhão Carlos Lopes:
+
+High-end(ish):
+
+ * [Zenit Lisboa][100]
+ * [Lisbon Fontana Park][101]
+
+Affordable(ish):
+
+ * ...
 
 **Are there showers available?**  
 Unfortunately no, bathrooms are available, but not showers. You'll have to improvise.
@@ -100,3 +111,5 @@ Still have questions? Issue us a [question][2].
 [1]: https://pixels.camp/schedule/
 [2]: https://github.com/PixelsCamp/docs/issues/new?labels=question
 [3]: https://github.com/PixelsCamp/talks/blob/master/README.md
+[100]: https://www.booking.com/hotel/pt/zenitlisboa.pt-pt.html
+[101]: https://www.booking.com/hotel/pt/double-tree-by-hilton-hotel-lisbon.pt-pt.html
