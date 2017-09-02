@@ -8,35 +8,32 @@ It's normal for those attending to have a few questions or concerns. We'll try t
 Pixels Camp is a yearly technology cult event, spanning over three days of non-stop technical talks, workshops, and coding.
 For sixty hours straight, 1000 participants enjoy world-class presentations, demos, community events and its classic 48-hour coding competition.
 
-
 **Who can attend Pixels Camp?**  
 Pixels Camp is targeted at creative minds. Based on their pitch, bios, and previous work evidence, the curators aim at selecting the best, most participative and motivated programmers and creatives.
 
 **How much does it cost?**
-
-Pixels Camp is free for all selected candidates. 
+Pixels Camp is free for all selected candidates.
 
 **Can I register our company employees in bulk?**
-
 No. Candidates must register and apply individually.
 
-**Can I bring a guest to the event?**  
-No, you can't. 
+**Do you pay for the atendees' transportation and/or accomodation costs?**
+Er, no, sorry. You can, however, sleep in the venue (see below).
 
-**When will the schedule be available?**  
+**Can I bring a guest to the event?**
+No, you can't. He needs to apply first, and then be accepted.
+
+**When will the schedule be available?**
 A detailed schedule will be available closer to the event, on [our website][1].
 
-**Will there be a live stream from the event?**  
+**Will there be a live stream from the event?**
 Yes, live streaming will be available. The feed will be focused on the activities taking place on the main stage, such as talks and contests. When nothing is going on there, you can expect a general transmission of the event.
-
 
 **Will the talks be recorded?**  
 Unless the speaker states otherwise, every talk will be recorded and available on the internet shortly after they're given.
 
-
 **Is there food and beverages at the event?**  
 Food and drinks will be provided free for all attendees. We'll be providing two main meals daily, and will have snacks and beverages available for the rest of the time. 
-
 
 **Why is the official language English?**  
 Although most of our participants are from Portugal, we have attendees coming from all over the world. English is usually well understood and accepted. Our main motivation is technology and talent, and these are global attributes, so our main "language" is what we use to code. 
