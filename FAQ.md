@@ -49,6 +49,10 @@ Food and drinks will be provided free for all attendees. We'll be providing two 
 
 Although most of our participants are from Portugal, we have attendees coming from all over the world. English is usually well understood and accepted. Our main motivation is technology and talent, and these are global attributes, so our main "language" is what we use to code. 
 
+**Do I get a participation certificate at the end?**
+
+Yes you do, we provide participation certificates on demand at the end of each Pixels Camp. Just make sure that you actually participate.
+
 
 ### VENUE AND FACILITIES
 
