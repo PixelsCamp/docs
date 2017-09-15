@@ -79,7 +79,7 @@ You can reach the organization in many ways:
 
 This document had contributions from the following people:
 
- * [Ana Sofia Pinto][1]
+ * [Ana Sofia Pinho][1]
  * [Karolina Piechocińska][2]
  * [Celso Martinho][3]
 
@@ -87,7 +87,7 @@ This document had contributions from the following people:
 
 This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike][4] license and it’s based on the [Citizen Code of Conduct][5] and [Rails Girls Summer of Code Code of Conduct][6].
 
-[1]: https://medium.com/@anasofiapinho
+[1]: https://github.com/anasofiapinho
 [2]: https://medium.com/@karolina.piechocinska
 [3]: https://github.com/celso
 [4]: http://creativecommons.org/licenses/by-sa/3.0/
