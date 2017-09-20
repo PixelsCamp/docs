@@ -68,10 +68,13 @@ High-end(ish):
 
  * [Zenit Lisboa][100]
  * [Lisbon Fontana Park][101]
+ * [Hotel Miraparque][105]
 
-Affordable(ish):
+Affordable(**ish**):
 
- * ...
+ * [Lisbon Top Hostel][102]
+ * [Home Sweet Lisbon][103]
+ * [Midtown Hostel][104]
 
 **Are there showers available?**
 
@@ -137,3 +140,7 @@ Still have questions? Issue us a [question][2].
 [3]: https://github.com/PixelsCamp/talks/blob/master/README.md
 [100]: https://www.booking.com/hotel/pt/zenitlisboa.pt-pt.html
 [101]: https://www.booking.com/hotel/pt/double-tree-by-hilton-hotel-lisbon.pt-pt.html
+[102]: https://www.booking.com/hotel/pt/lisbon-top-hostel-lisboa.pt-pt.html
+[103]: https://www.booking.com/hotel/pt/home-sweet-home-lisbon.pt-pt.html
+[104]: https://www.booking.com/hotel/pt/midtown-hostel.pt-pt.html
+[105]: https://pt.hoteis.com/ho218487/
