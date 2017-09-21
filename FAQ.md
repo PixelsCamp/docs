@@ -23,7 +23,11 @@ No. Candidates must register and apply individually.
 
 **Do you pay for the atendees' transportation and/or accomodation costs?**
 
-Er, no, sorry. You can, however, sleep in the venue (see below).
+This year, in partnership with Siemens, Pixels Camp provides a free train for all the accepted participants coming from the north of Portugal.
+
+The schedule and registration form can be [found here][200].
+
+You can also sleep in the venue (see below).
 
 **Can I bring a guest to the event?**
 
@@ -144,3 +148,4 @@ Still have questions? Issue us a [question][2].
 [103]: https://www.booking.com/hotel/pt/home-sweet-home-lisbon.pt-pt.html
 [104]: https://www.booking.com/hotel/pt/midtown-hostel.pt-pt.html
 [105]: https://pt.hoteis.com/ho218487/
+[200]: https://www.siemens.com/pt/pt/home/empresa/hr/jobs/vipixeltrain.html
