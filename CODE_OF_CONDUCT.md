@@ -1,5 +1,7 @@
 # Pixels Camp Code of Conduct
 
+![Screenshot](https://github.com/PixelsCamp/docs/blob/master/img/everyone.png?raw=true)
+
 ## Purpose
 
 Pixels Camp celebrates technology and creativity and brings the community together with three days of non-stop tech talks, workshops, a programming competition and fun.
