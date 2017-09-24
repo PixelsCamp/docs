@@ -40,4 +40,4 @@ Yes, at least three things.
 
 We don't provide templates, but you can find some [graphical materials here][1]. Feel free to use them.
 
-[1]: https://www.dropbox.com/sh/435ozo55bqr9n5t/AAA-Vff5SJ12Om0wFDFwiJ82a?dl=0
+[1]: https://drive.google.com/drive/folders/0B6U_2A5tv57HSzZxZHJPa1p0LXc?usp=sharing
