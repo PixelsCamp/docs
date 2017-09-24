@@ -50,4 +50,4 @@ There are plenty of good articles on how-to-prepare yourself to deliver a great 
 * Be on your stage on time, with your laptop ready to connect and go.
 * Engage with your audience. Make time for Q&A if possible.
 
-[1]: https://www.dropbox.com/sh/435ozo55bqr9n5t/AAA-Vff5SJ12Om0wFDFwiJ82a?dl=0
+[1]: https://drive.google.com/drive/folders/0B6U_2A5tv57HSzZxZHJPa1p0LXc?usp=sharing
