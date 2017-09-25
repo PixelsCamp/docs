@@ -64,7 +64,19 @@ The hackathon projects are now managed from the main Pixels Camp website. To reg
 
 From there you provide a title for your project, an intro (it will be used in the listings) and a full description.
 
+You can use [Markdown][7] in the description, to make it more attractive.
+
 ![Image](img/newproject.png)
+
+Now you need to enter the members of your team, a pretty cover image for your project, an optional video if you have one and your code repository, also optional.
+
+When you think that everything's ready for the world to see, tick the "Enable project" option. Submit.
+
+![Image](img/newproject2.png)
+
+You can always come to your Pixels Camp account and edit the project. Press the "Edit Project" button in the top right drop-down menu.
+
+
 
 
 [2]: https://github.com/PixelsCamp/docs/blob/master/SLACK.md
@@ -72,3 +84,4 @@ From there you provide a title for your project, an intro (it will be used in th
 [4]: https://github.com/PixelsCamp/projects/blob/master/nobull_bot.md
 [5]: https://github.com/PixelsCamp/moon#equilibrium
 [6]: https://github.com/PixelsCamp/moon
+[7]: https://guides.github.com/features/mastering-markdown/
