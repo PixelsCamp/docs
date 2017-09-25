@@ -76,7 +76,23 @@ When you think that everything's ready for the world to see, tick the "Enable pr
 
 You can always come to your Pixels Camp account and edit the project. Press the "Edit Project" button in the top right drop-down menu.
 
+## Check your project page
 
+Once your project is edited, you'll have access to its permalinked page.
+
+This is the page that everyone sees when your project is enabled. It deliberately tries to imitate a Kickstarter campaign because that's precisely what you'll be doing during the 48-hour hackathon: campaigning for your project to win, until the very last projects presentation session.
+
+In the page, you'll see the title of your project, the big image or video, the description and the team.
+
+You can also comment on the project. Teams should be on the lookout for comments on their projects and answer them. You never know if it's an investor willing to bet EXPs on you.
+
+And most importantly, the page shows how many EXPs this project's got in funding and what's its wallet address if an investor decides to deposit a few extra EXTs in it.
+
+![Image](img/myproject.png)
+
+To learn on how to send EXP tokens to a project [click here][8].
+
+Once it's public, you can share your project page with anyone, including people outside Pixels Camp.
 
 
 [2]: https://github.com/PixelsCamp/docs/blob/master/SLACK.md
@@ -85,3 +101,4 @@ You can always come to your Pixels Camp account and edit the project. Press the 
 [5]: https://github.com/PixelsCamp/moon#equilibrium
 [6]: https://github.com/PixelsCamp/moon
 [7]: https://guides.github.com/features/mastering-markdown/
+[8]: https://github.com/PixelsCamp/moon/blob/master/MEW.md#sending-exp-tokens-to-someone-else
