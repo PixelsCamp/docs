@@ -60,7 +60,12 @@ The programming event will last exactly 48 hours, starting on the first day. You
 
 ## Project Registration
 
-WIP
+The hackathon projects are now managed from the main Pixels Camp website. To register a new project for your team, log into your account, click the top right drop-down menu and press "Edit Project."
+
+From there you provide a title for your project, an intro (it will be used in the listings) and a full description.
+
+![Image](img/newproject.png)
+
 
 [2]: https://github.com/PixelsCamp/docs/blob/master/SLACK.md
 [3]: https://twitter.com/pixelscamp
