@@ -38,6 +38,16 @@ Yes, at least three things.
 
 ### There's a template for my presentation?
 
-We don't provide templates, but you can find some [graphical materials here][1]. Feel free to use them.
+You can find some [graphical materials here][1]. Feel free to use them.
 
-[1]: https://www.dropbox.com/sh/435ozo55bqr9n5t/AAA-Vff5SJ12Om0wFDFwiJ82a?dl=0
+## Preparation
+
+There are plenty of good articles on how-to-prepare yourself to deliver a great conference talk if you don't have the experience yet. While we think that every person is different and has its process, we also believe that some tips work for everyone:
+
+* Write your presentation in advance.
+* Rehearse it multiple times until you feel comfortable. Time your presentation. New speakers often underestimate how much time they need.
+* Keep your slides minimal and simple. Less is more.
+* Be on your stage on time, with your laptop ready to connect and go.
+* Engage with your audience. Make time for Q&A if possible.
+
+[1]: https://drive.google.com/drive/folders/0B6U_2A5tv57HSzZxZHJPa1p0LXc?usp=sharing
