@@ -112,6 +112,12 @@ We will give everyone 30 minutes after the final projects presentation session t
 
 ## Project listings
 
+Pixels Camp is constantly trying to promote the public projects as soon as they are enabled. The more promotion you get, the more chances you get to be invested.
+
+One the places you can look for new projects in our [public listings page][9].
+
+![Image](img/projects.png)
+
 
 [2]: https://github.com/PixelsCamp/docs/blob/master/SLACK.md
 [3]: https://twitter.com/pixelscamp
@@ -120,3 +126,4 @@ We will give everyone 30 minutes after the final projects presentation session t
 [6]: https://github.com/PixelsCamp/moon
 [7]: https://guides.github.com/features/mastering-markdown/
 [8]: https://github.com/PixelsCamp/moon/blob/master/MEW.md#sending-exp-tokens-to-someone-else
+[9]: https://pixels.camp/projects/
