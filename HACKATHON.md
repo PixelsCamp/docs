@@ -16,7 +16,7 @@ This year we decided to break with our classical approach to find the best hacka
 
 Based on the principles of full decentralization and transparency that blockchain technologies promise, we've decided to make everything about Pixels Camp, including picking up the winning projects of this year's Hackathon, completely based on the dynamics of what you can find in the real world and a real economy.
 
-For this, we've created a digital coin, called [Exposure][6], which will be used for nearly all activities around the Pixels Camp event and community. You can read more Exposure and how to start using our coin here. In fact, you should do it as soon as possible.
+For this, we've created a digital coin, called [Exposure][6], which will be used for nearly all activities around the Pixels Camp event and community. You can read more about Exposure and how to start using our coin [here][6]. In fact, you should do it as soon as possible.
 
 In a nutshell, this year every participant is an entrepreneur, an investor, a service provider, a customer,  a marketing guy, a growth strategist, a CTO looking for help, a mentor and a trader.
 
@@ -26,13 +26,13 @@ So here's what changed:
 
 * There is no more jury. Instead, now we will have Angels. People we invite to live the Pixels Camp experience. They have more money than most and will invest in the projects they think deserve it.
 
-* There is no more voting system. Putting your hard earned money, also known as Exposure, or simply EXPs, in the projects you love,  is your vote.
+* There is no more voting system. Putting your hard earned money, also known as Exposure, or simply `EXP`s, in the projects you love,  is your vote.
 
 * Every investment in a project, either coming from Angels, its team members, good friends or general participants will be entirely traceable, transparent and incorruptible, by design.
 
 * You can invest in a project, at the beginning, middle or at the end of Pixels Camp, when the projects are presented. It's up to you to define your strategy. We will teach you to do it, and provide you with tools to make it as easy as possible.
 
-* Investing in real time during the projects presentation session is hard. Instead, we built a page where you can take quick notes and tick your favorite projects as you get to know them. In the end, just before the winners are announced, you can quickly decide where to invest the rest of your precious EXPs.
+* Investing in real time during the projects presentation session is hard. Instead, we built a page where you can take quick notes and tick your favorite projects as you get to know them. In the end, just before the winners are announced, you can quickly decide where to invest the rest of your precious `EXP`s.
 
 For the rest of the rules and incentives, read the [Equilibrium section][5] of the detailed Exposure page.
 
@@ -56,7 +56,7 @@ Ideas, concepts, and team organization are tasks that can be thought out before 
 
 ## Project Registration
 
-The hackathon projects are now managed from the main Pixels Camp website. To register a new project for your team, log into your account, click the top right drop-down menu and press "Edit Project."
+The hackathon projects are now managed from the main Pixels Camp website. To register a new project for your team, log into your account, click the top right drop-down menu and press "Create Project."
 
 From there you provide a title for your project, an intro (it will be used in the listings) and a full description.
 
@@ -80,13 +80,13 @@ This is the page that everyone sees when your project is enabled. It deliberatel
 
 In the page, you'll see the title of your project, the big image or video, the description and the team.
 
-You can also comment on the project. Teams should be on the lookout for comments on their projects and answer them. You never know if it's an investor willing to bet EXPs on you.
+You can also comment on the project. Teams should be on the lookout for comments on their projects and answer them. You never know if it's an investor willing to bet `EXP`s on you.
 
-And most importantly, the page shows how many EXPs this project's got in funding and what's its wallet address if an investor decides to deposit a few extra EXTs in it.
+And most importantly, the page shows how many `EXP`s this project's got in funding and what's its wallet address if an investor decides to deposit a few extra `EXP`s in it.
 
 ![Image](img/myproject.png)
 
-To learn on how to send EXP tokens to a project [click here][8].
+To learn how to send `EXP` tokens to a project [click here][8].
 
 Once it's public, you can share your project page with anyone, including people outside Pixels Camp.
 
@@ -100,7 +100,7 @@ To cope with this problem, we've built an online notebook right into the Pixels 
 
 You can use this tool to keep track of the notes you take with each project you visit and get to know about. You can also use it to take notes during the final session, so you don't need to worry about voting, sorry, investing while you watch the presentations.
 
-And then, when you're ready, go to your notes, make up your mind, and invest wisely in those you believe deserve your precious EXPs.
+And then, when you're ready, go to your notes, make up your mind, and invest wisely in those you believe deserve your precious `EXP`s.
 
 We will give everyone 30 minutes after the final projects presentation session to work out their final investments before we calculate the winners, so relax.
 
@@ -138,7 +138,7 @@ Each of the winning projects will receive a handful of prizes, some of which off
 
 We will also award some of the winners from fun competitions like the Quiz Show, CTF, Chasing Ghost, etc.
 
-Finally, we'd like to award our top investors, that is, those who were able to accumulate more EXPs after the final redistribution.
+Finally, we'd like to award our top investors, that is, those who were able to accumulate more `EXP`s after the final redistribution.
 
 To know more about the rules, please read the [Equilibrium section][11] in our Exposure page.
 
