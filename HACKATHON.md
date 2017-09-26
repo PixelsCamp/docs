@@ -94,6 +94,24 @@ To learn on how to send EXP tokens to a project [click here][8].
 
 Once it's public, you can share your project page with anyone, including people outside Pixels Camp.
 
+## Project notes
+
+As an investor, it's hard to decide on who to invest. There are so many projects to see, and they're constantly evolving and changing during the 48-hour hackathon.
+
+Plus, the final presentation session is key to see the results and the team's presentation skills and energy and should save some of your funds, if not most, for that decisive moment.
+
+To cope with this problem, we've built an online notebook right into the Pixels Camp website. As always, log-in and click "View Notes" on the top right drop-down menu.
+
+You can use this tool to keep track of the notes you take with each project you visit and get to know about. You can also use it to take notes during the final session, so you don't need to worry about voting, sorry, investing while you watch the presentations.
+
+And then, when you're ready, go to your notes, make up your mind, and invest wisely in those you believe deserve your precious EXPs.
+
+We will give everyone 30 minutes after the final projects presentation session to work out their final investments before we calculate the winners, so relax.
+
+![Image](img/notes.png)
+
+## Project listings
+
 
 [2]: https://github.com/PixelsCamp/docs/blob/master/SLACK.md
 [3]: https://twitter.com/pixelscamp
