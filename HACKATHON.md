@@ -54,10 +54,6 @@ __Participants can only join one project at a time__.
 
 Ideas, concepts, and team organization are tasks that can be thought out before the event, but the project itself should be developed during the 48 hour period.
 
-## Schedule
-
-The programming event will last exactly 48 hours, starting on the first day. You can see the full schedule [here](https://pixels.camp/schedule/).
-
 ## Project Registration
 
 The hackathon projects are now managed from the main Pixels Camp website. To register a new project for your team, log into your account, click the top right drop-down menu and press "Edit Project."
@@ -118,6 +114,25 @@ One the places you can look for new projects in our [public listings page][9].
 
 ![Image](img/projects.png)
 
+## Schedule
+
+The programming event will last exactly 48 hours, starting on the first day. You can see the full schedule [here](https://pixels.camp/schedule/).
+
+Everyone should have their projects public and enabled by the 3rd day, Saturday, at 1 pm.
+
+If you're not planning to present your project in the finals, then please disable your project.
+
+At 2 pm, everyone presenting a project should head to the main stage for testing their laptops.
+
+At 3 pm the final projects presentation begins. Everyone should be ready to get on stage. Projects will be called by the same order as they've been registered on the website.
+
+Each project will be presented on stage by a single representative team member, who'll have 90 seconds to pitch and/or demo your project.
+
+To get a sense of what we're talking about, take a look at last year's [project presentations video][10].
+
+## Awards
+
+WIP
 
 [2]: https://github.com/PixelsCamp/docs/blob/master/SLACK.md
 [3]: https://twitter.com/pixelscamp
@@ -127,3 +142,4 @@ One the places you can look for new projects in our [public listings page][9].
 [7]: https://guides.github.com/features/mastering-markdown/
 [8]: https://github.com/PixelsCamp/moon/blob/master/MEW.md#sending-exp-tokens-to-someone-else
 [9]: https://pixels.camp/projects/
+[10]: https://youtu.be/yDHg3st_IEk?t=669
