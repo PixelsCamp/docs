@@ -38,7 +38,7 @@ For the rest of the rules and incentives, read the [Equilibrium section][5] of t
 
 Sounds complicated? It is a little bit. But it's also highly interesting to see how this experiment plays out in such a vibrant and active tech-savvy event like Pixels Camp. Plus, you get to learn a lot about blockchain, market dynamics, and game theory. And in the end, all the data is yours, for you to keep exploring and learning from it.
 
-To make it less complicated, one of the first sessions in the calendar will a full talk on Exposure and the new rules, on the main stage, at 2 PM, with Q&A.
+To make it less complicated, one of the first sessions in the calendar will a full talk on Exposure and the new rules, on the Segfault stage, at 2 PM, with Q&A.
 
 Let's get started with the Hackathon rules now.
 
@@ -132,7 +132,17 @@ To get a sense of what we're talking about, take a look at last year's [project 
 
 ## Awards
 
-WIP
+Pixels Camp will award the ten most well funded projects. The count will take place exactly 30 minutes after the last project presentation on Saturday.
+
+Each of the winning projects will receive a handful of prizes, some of which offered by our sponsors and partners, and big beautiful Pixels Camp 2017 trophy to keep by the fireplace at home, proudly.
+
+We will also award some of the winners from fun competitions like the Quiz Show, CTF, Chasing Ghost, etc.
+
+Finally, we'd like to award our top investors, that is, those who were able to accumulate more EXPs after the final redistribution.
+
+To know more about the rules, please read the [Equilibrium section][11] in our Exposure page.
+
+We have a [FAQ][12] here too.
 
 [2]: https://github.com/PixelsCamp/docs/blob/master/SLACK.md
 [3]: https://twitter.com/pixelscamp
@@ -143,3 +153,5 @@ WIP
 [8]: https://github.com/PixelsCamp/moon/blob/master/MEW.md#sending-exp-tokens-to-someone-else
 [9]: https://pixels.camp/projects/
 [10]: https://youtu.be/yDHg3st_IEk?t=669
+[11]: https://github.com/pixelscamp/moon#equilibrium
+[12]: https://github.com/PixelsCamp/docs/blob/master/FAQ.md
