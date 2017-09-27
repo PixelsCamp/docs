@@ -77,7 +77,7 @@ This private Ethereum network is mined by our servers and creates a new block ev
 
 [1]: https://ethereum.org/
 [2]: https://ethereum.org/ether
-[3]: http://consensys.github.io/developers/articles/101-noob-intro/
+[3]: https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4 
 [4]: https://github.com/ethereum/go-ethereum/wiki/Contract-Tutorial
 [5]: https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn
 [6]: https://metamask.io/
