@@ -2,17 +2,15 @@
 
 Important documents for Pixels Camp:
 
-* [Frequently Asked Questions][2]
-* [How to add the Pixels Camp calendar][3]
-* [Lightning Talks][8]
+* [Pixels Camp FAQ][2]
+* [How to add the schedule to your own calendar][3]
 * [Speakers FAQ][5]
 * [Using Slack][4]
 * [Hackathon][6] (48-hour programming contest)
-* [Moon][7] blockchain network and Exposure token
 
 ## Other Links
 
-* [Website][1]
+* [Pixels Camp website][1]
 
 [1]: https://pixels.camp
 [2]: https://github.com/PixelsCamp/docs/blob/master/FAQ.md
