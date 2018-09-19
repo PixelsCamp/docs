@@ -137,6 +137,10 @@ Yes, but it'll help if you tell that person beforehand. ;)
 
 No. The other members in your team must also be approved attendees. And to be approved they must apply for the event (individually).
 
+* **Are there prizes for winning one of these activities?**
+
+In most cases, yes. But we won't tell you what the prize is in advance. ;)
+
 
 ## SPEAKERS AND SPONSORS
 
