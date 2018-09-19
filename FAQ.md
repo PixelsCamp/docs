@@ -117,7 +117,7 @@ Of course. There will also be a limited number of ethernet outlets in the table 
 The million-dollar question... The organization will provide a world-class setup but, ultimately, this depends on you and your fellow attendees. Bear in mind that hotspots are **NOT ALLOWED** at the event. Wi-Fi is a shared medium, like a pool, please don't pee in the pool.
 
 
-## QUIZ SHOW, SECURITY CTF AND OTHER ACTIVITIES
+## 48h COMPETITION, QUIZ SHOW, SECURITY CTF AND OTHER ACTIVITIES
 
 * **What are these other activities?**
 
