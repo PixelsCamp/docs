@@ -10,11 +10,11 @@ Let’s address a few of them.
 
 Presentations are scheduled 1 hour apart from each other. This means you have almost 1 hour to give your talk, do some Q&A and leave the stage in time for the next speaker to setup. We suggest 45 minutes for talks as the most appropriate duration.
 
-Do keep in mind that attendees need to have some minutes to spare to grab something to eat and move to another stage to see whatever talk they may want to attend next.
+Do keep in mind that attendees need to have some minutes to spare to grab something to eat and move to another stage to see whatever talk they may want to attend next. But don't make your talk _too_ short.
 
 ### What sort of logistics will be available for my presentation?
 
-An HDMI projector, an ethernet cable (there’s also wifi available), VGA and Display Port adapters, an audio jack (should you want to play a movie with sound during your presentation) and an assortment of microphones of which you can choose from: a Lavalier microphone, a Headset, a hand microphone and another microphone on the speaker stand.
+An HDMI projector, an ethernet cable (there’s also wifi available but, as in any other conference, don't make your talk depend on it), VGA and Display Port adapters, an audio jack (should you want to play a movie with sound during your presentation) and an assortment of microphones of which you can choose from: a Lavalier microphone, a Headset, a hand microphone and another microphone on the speaker stand.
 
 Hopefully, there will also be attendees, one of whom should be your appointed Pixels Camp volunteer. If any technical problem should arise during your presentation, this person will either solve it or find someone else to do so.
 
@@ -26,7 +26,7 @@ You can find professional video projectors in all stages, they all use the 16:9 
 
 If your laptop doesn't have an HDMI port, then, just in case, you should bring an adapter with you.
 
-We will provide video adapters to speakers if they don't have one, but it will be on a best-effort, first-come-first-served basis.
+We will provide video adapters to speakers if they don't have one, but it will be on a best-effort, first-come-first-served basis. Don't depend on it.
 
 ### Anything else regarding my talk?
 
@@ -41,7 +41,7 @@ Yes, at least three things.
 There are plenty of good articles on how-to-prepare yourself to deliver a great conference talk if you don't have the experience yet. While we think that every person is different and has its process, we also believe that some tips work for everyone:
 
 * Write your presentation in advance.
-* Rehearse it multiple times until you feel comfortable. Time your presentation. New speakers often underestimate how much time they need.
+* Rehearse it multiple times until you feel comfortable. Time your presentation. New speakers often underestimate how much time they need, having to speed up at the end (or overestimate, ending too early).
 * Keep your slides minimal and simple. Less is more.
 * Be on your stage on time, with your laptop ready to connect and go.
 * Engage with your audience. Make time for Q&A if possible.
