@@ -1,6 +1,6 @@
 # Pixels Camp Hackathon
 
-![Image](img/hackathon.png)
+![Image](https://github.com/PixelsCamp/docs/blob/master/img/hackathon.png)
 
 The goal of the Pixels Camp hackathon is to single out and reward creativity and innovation by providing participants with an opportunity to work together within a time frame of 48 hours to create something awesome.
 
@@ -62,13 +62,13 @@ From there you provide a title for your project, an intro (it will be used in th
 
 You can use [Markdown][7] in the description, to make it more attractive.
 
-![Image](img/newproject.png)
+![Image](https://github.com/PixelsCamp/docs/blob/master/img/newproject.png)
 
 Now you need to enter the members of your team, a pretty cover image for your project, an optional video if you have one and your code repository, also optional.
 
 When you think that everything's ready for the world to see, tick the "Enable project" option. Submit.
 
-![Image](img/newproject2.png)
+![Image](https://github.com/PixelsCamp/docs/blob/master/img/newproject2.png)
 
 You can always come to your Pixels Camp account and edit the project. Press the "Edit Project" button in the top right drop-down menu.
 
@@ -84,7 +84,7 @@ You can also comment on the project. Teams should be on the lookout for comments
 
 And most importantly, the page shows how many `EXP`s this project's got in funding and what's its wallet address if an investor decides to deposit a few extra `EXP`s in it.
 
-![Image](img/myproject.png)
+![Image](https://github.com/PixelsCamp/docs/blob/master/img/myproject.png)
 
 To learn how to send `EXP` tokens to a project [click here][8].
 
@@ -104,7 +104,7 @@ And then, when you're ready, go to your notes, make up your mind, and invest wis
 
 We will give everyone 30 minutes after the final projects presentation session to work out their final investments before we calculate the winners, so relax.
 
-![Image](img/notes.png)
+![Image](https://github.com/PixelsCamp/docs/blob/master/img/notes.png)
 
 ## Project listings
 
@@ -112,7 +112,7 @@ Pixels Camp is constantly trying to promote the public projects as soon as they 
 
 One the places you can look for new projects in our [public listings page][9].
 
-![Image](img/projects.png)
+![Image](https://github.com/PixelsCamp/docs/blob/master/img/projects.png)
 
 ## Schedule
 
