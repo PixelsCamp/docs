@@ -14,6 +14,4 @@ Lightning Talks will take place in the Chill-out zone after 5 pm on Thursday and
 
 ## How to submit a Lightning Talk
 
-The process to submit a Lightning Talk is easy:
-
-Hold tight, we will have the registration for you.
+Hold tight, we will have the registration for you very soon.
