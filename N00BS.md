@@ -67,7 +67,7 @@ Try to keep your baggage light. You’re going to return home with freebies from
 
 If you are coming with a large group of friends, make sure that one of you brings an extra power strip. While there are plenty of sockets, you might end up all together in the same table and everyone wants to charge their laptops, tablets, phones...
 
-Bring also micro-USB cables, cables for gay phones, SD card readers and miscellaneous USB port adapters. You can thank us later!
+Don't forget your smartphone charger and cable, memory card reader and other miscellaneous USB cables and adapters. You can thank us later!
 
 ## Get to your destination
 
@@ -85,7 +85,8 @@ You also have the following [bus lines][22] to get to the venue: 702, 732, 744, 
 
 You will need a laptop for the event, especially if you want to participate in the coding challenges. Don’t forget your chargers!
 
-Usually, each table has its power strip. Don’t hog all of the power sockets because everyone needs to plug in their computers. If there are ethernet cable s too, use them if your laptop allows them instead of the wifi.
+Usually, each table has its power strip. Don’t hog all of the power sockets because everyone needs to plug in their computers. If there is an ethernet switch on the
+table use it instead of the wifi.
 
 Speaking of wifi, expect the network to be a clusterf*ck during the first hours of the event while they’re still adjusting. Everyone is trying to connect at the same time.
 
@@ -95,9 +96,9 @@ If your smartphone and operating system support USB tethering, you might try tha
 
 Keep a smartphone with you at all times. Make sure you’re logged in on Pixels Camp’s website and have a QR scanner app available. You’ll find QR codes scattered around the venue, and scanning them unlocks badges.
 
-Pay attention to Pixels Camp’s Twitter for surprise announcements.
+Pay attention to Pixels Camp’s Twitter for surprise announcements and should also really join Pixels Camp's Slack.
 
-You should also join PixelsCamp Slack Team Make sure you bring comfortable clothes to move around. Now it’s the time to dust off your nerd/geek t-shirts and wear them proudly.
+Make sure you bring comfortable clothes to move around. Now it’s the time to dust off your nerd/geek t-shirts and wear them proudly.
 
 ## Meals and snacks
 
@@ -110,7 +111,7 @@ Face it: your diet during the event is going to get a kick. In past years there 
 Remember that everyone needs to eat, so if you want seconds or thirds it may be better to wait until everyone has had their meal to see if there are any left
 overs.
 
-You usually have liquid yogurt, fruits, and cookies during the mornings for breakfast. If you are going to participate in the nuclear <Dragon’s Breath> challenge, you may want to stockpile on the yogurts.
+They usually have liquid yogurt, fruits, and cookies during the mornings for breakfast. If you are going to participate in the Nuclear Tacos challenge, you may want to stockpile on the yogurts.
 
 Prepare for the return of the insta-noodles. They do make nice comfort foods at 2 am but be careful eating them in front of your laptop.
 
@@ -128,17 +129,13 @@ Sleeping masks and earplugs may help to avoid the light and excessive sounds fro
 
 Be mindful of the bean bags (if there are any). As tempting as it is to make a sleeping fort with them, others would like them too.
 
-Sleeping with the same pair of pants you’ll use the next day may not be the most comfortable thing to do. But maybe you don’t want to bring your pink Hello Kitty pajamas either. Or a robe. We had a guy in a robe once (we have proof).
-
-Solution: Get a shirt that you’ll use exclusively during night time and comfortable gym pants.
-
-You’ll be able to work in that gear until you fall asleep and move around comfortably without looking like you’re in a slumber party.
+Sleeping with the same pair of pants you’ll use the next day may not be the best thing to do, so bring some extra comfortable clothes and and maybe slippers to use during night time.
 
 ## Hygiene
 
 ![](https://github.com/PixelsCamp/docs/blob/master/img/hygiene.png?raw=true)
 
-There are no showers at the venue apparently we will now have them, the organization is working on how access will be provided.
+If there are showers at the venue, the organization will inform on how to access them.
 
 If you plan to have a shower, bring your own towel. However we (the community) are skeptic about hot water for everyone so, adjust your expectations.
 
@@ -146,21 +143,21 @@ This is like a camping experience except you’re camping indoors among other ne
 
 You’ll still want to be freshened up for each day and avoid smelling like sweat and greasy pizza.
 
-Deodorant. Please, use deodorant. And not the Axe kind either. Everyone is sweating from being locked inside the same building for three days even during fall/winter time. And please do not go “all out” either.
+Deodorant. Please, use deodorant or antiperspirant. Everyone is sweating from being locked inside the same building for three days even during fall/winter time. And please do not go “all out” either.
 
-You can use the same pair of pants during the entire event, but please do not use the same tactic with underwear.
+You can use the same pair of pants during the entire event, but please do not use the same underwear.
 
-Cleansing wipes are a decent shower alternative. Baby wipes work, but they leave you with an odd scent that may bother you for the rest of the day. So try to get scentless wipes. A small towel helps too.
+Cleansing wipes are a decent shower alternative. Baby wipes work, but they leave you with an odd scent so try to get scentless wipes. A small towel helps too.
 
 ## Other tips
 
 With the plethora of laptops, tablets, and phones available, it’s easy to get things mixed up like the chargers. Get a sticker or a label with your name on the charger so it’s not mixed up with others.
 
-It’s fine to leave your stuff unattended but please lock your machine, people are... Mischievous to say the least.
+It’s fine to leave your stuff unattended but please lock your machine, people are... mischievous to say the least.
 
-If you left your gear charging while you go somewhere, be prepared for it being disconnected upon your return. Power sockets are scarce and “emergency charges happen”.
+If you left your gear charging while you go somewhere, be prepared for it being disconnected upon your return. Power sockets are scarce and “emergency charges happen”
 
-Headphones are your friends. Especially when you need mood music for coding. And remember not everyone wants to listen to your Korean dubstep so avoid listening from the laptop speakers (unless this is project related).
+Headphones are your friends. Especially when you need mood music for coding. And remember not everyone wants to listen to your music so avoid listening from the laptop speakers (unless this is project related).
 
 If you have problems concentrating, you might also use ear mufflers to reduce noise. Keep the venue clean. As tempting as it is to bring three pizza boxes to your project table, avoid cluttering the tables with garbage. There will be trash cans nearby emptied regularly. And if those trash cans aren’t emptied fast enough, talk with someone from STAFF.
 
@@ -170,13 +167,11 @@ As a newcomer, you’ll be introduced to a years old culture of memes, gimmicks,
 
 ![](https://github.com/PixelsCamp/docs/blob/master/img/people.png?raw=true)
 
-It’s fine to approach someone to ask something or just to say hi. Be aware most people may be working on a project and time can be limited. From experience, people are nice to each other, be nice too.
+It’s fine to approach someone to ask something or just to say hi. Be aware most people may be working on a project and time can be limited. From experience, people are nice so “be excellent to each other”!.
 
 Remember, you were accepted to the event, you can speak to the organizers, just don’t be pushy and use DEODORANT.
 
 If someone frowns when you’re talking to them, please check your DEODORANT property use.
-
-Okay, enough DEODORANT jokes.
 
 Don’t be shy! Take a break from coding and go check the rest of the venue. Check the hardware workshops, sign up for board games. Or become a god among men and women with the Karaoke Presentation.
 
@@ -186,7 +181,7 @@ Don’t be shy! Take a break from coding and go check the rest of the venue. Che
 
 If you’re interested in creating or joining a project, be flexible about help you might receive.
 
-If you have a project but are missing an extra team member with a necessary set of skills, feel free to shout on Twitter or Slack. (ex.: “We need a Javascript expert for project #42, who’s interested?” or “Any interface designer available?”)
+If you have a project but are missing an extra team member with a necessary set of skills, feel free to shout on Twitter or Slack. (ex.: “We need a Javascript expert for project #42, who’s interested?” or “Any designer available?”)
 
 It is also worth mention if you have a good idea for a project but no means to develop it fully at the event, make a nice presentation and go on stage. Feasible ideas can be presented without fear.
 
