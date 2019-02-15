@@ -39,7 +39,7 @@ No. All attendees must apply to the event individually.
 
 * **Do I have to participate in the 48h programming competition?**
 
-No. But we do encourage you to participate in _something_ during the event, and not just passively roam around the venue. Fortunately, there are plenty activities to choose from.
+No. But we do encourage you to participate in _something_ during the event, and not just passively roam around the venue. Fortunately, there are plenty of activities to choose from.
 
 * **I was selected but can't attend the event, what do I do?**
 
