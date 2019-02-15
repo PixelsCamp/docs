@@ -85,7 +85,7 @@ You also have the following [bus lines][22] to get to the venue: 702, 732, 744, 
 
 You will need a laptop for the event, especially if you want to participate in the coding challenges. Don’t forget your chargers!
 
-Usually, each table has its power strip. Don’t hog all of the power sockets because everyone needs to plug in their computers. If there are ethernet cable s too, use them if your laptop allows them instead of the wifi.
+Usually, each table has its power strip. Don’t hog all of the power sockets because everyone needs to plug in their computers. If there are ethernet cables too, use them if your laptop allows them instead of wifi.
 
 Speaking of wifi, expect the network to be a clusterf*ck during the first hours of the event while they’re still adjusting. Everyone is trying to connect at the same time.
 
@@ -97,7 +97,9 @@ Keep a smartphone with you at all times. Make sure you’re logged in on Pixels 
 
 Pay attention to Pixels Camp’s Twitter for surprise announcements.
 
-You should also join PixelsCamp Slack Team Make sure you bring comfortable clothes to move around. Now it’s the time to dust off your nerd/geek t-shirts and wear them proudly.
+You should also join PixelsCamp Slack Team.
+
+Make sure you bring comfortable clothes to move around. Now it’s the time to dust off your nerd/geek t-shirts and wear them proudly.
 
 ## Meals and snacks
 
@@ -107,8 +109,7 @@ There should be some fridges stockpiled with water, sodas and energy drinks. The
 
 Face it: your diet during the event is going to get a kick. In past years there has been an abundance of pizza, burgers and more recently noodles. In recent events, vegetarian options have been growing. And this year there will be healthier options available.
 
-Remember that everyone needs to eat, so if you want seconds or thirds it may be better to wait until everyone has had their meal to see if there are any left
-overs.
+Remember that everyone needs to eat, so if you want seconds or thirds it may be better to wait until everyone has had their meal to see if there are any left overs.
 
 You usually have liquid yogurt, fruits, and cookies during the mornings for breakfast. If you are going to participate in the nuclear <Dragon’s Breath> challenge, you may want to stockpile on the yogurts.
 
@@ -122,11 +123,11 @@ Please refrain to bring alcohol OF ANY KIND to the event. It’s ok if you go ou
 
 ![](https://github.com/PixelsCamp/docs/blob/master/img/tent.png?raw=true)
 
-There should be a designated sleeping/relaxation area in the venue. If not or if all areas are full, the smaller stages may be available as temporary sleeping areas as long as you get out before the first talks of the day begin.
+There should be a designated sleeping/relaxation area in the venue. If not or if all areas are full, smaller stages may be available as temporary sleeping areas as long as you get out before first talks for the day begin.
 
 Sleeping masks and earplugs may help to avoid the light and excessive sounds from the venue as well the snoring programmer next to you.
 
-Be mindful of the bean bags (if there are any). As tempting as it is to make a sleeping fort with them, others would like them too.
+Be mindful of bean bags (if there are any). As tempting as it is to make a sleeping fort with them, others would like them too.
 
 Sleeping with the same pair of pants you’ll use the next day may not be the most comfortable thing to do. But maybe you don’t want to bring your pink Hello Kitty pajamas either. Or a robe. We had a guy in a robe once (we have proof).
 
@@ -138,7 +139,7 @@ You’ll be able to work in that gear until you fall asleep and move around comf
 
 ![](https://github.com/PixelsCamp/docs/blob/master/img/hygiene.png?raw=true)
 
-There are no showers at the venue apparently we will now have them, the organization is working on how access will be provided.
+There is no guarantee showers will be available for version 3.0. However, in version 2.0 they were available with a very tight access schedule, ask the organization on how access will be provided (if at all).
 
 If you plan to have a shower, bring your own towel. However we (the community) are skeptic about hot water for everyone so, adjust your expectations.
 
@@ -146,7 +147,7 @@ This is like a camping experience except you’re camping indoors among other ne
 
 You’ll still want to be freshened up for each day and avoid smelling like sweat and greasy pizza.
 
-Deodorant. Please, use deodorant. And not the Axe kind either. Everyone is sweating from being locked inside the same building for three days even during fall/winter time. And please do not go “all out” either.
+Deodorant. Please, use deodorant. And not the Axe kind either. Everyone is sweating from being locked inside the same building for three days even during spring time. And please do not go “all out” either.
 
 You can use the same pair of pants during the entire event, but please do not use the same tactic with underwear.
 
@@ -162,7 +163,7 @@ If you left your gear charging while you go somewhere, be prepared for it being 
 
 Headphones are your friends. Especially when you need mood music for coding. And remember not everyone wants to listen to your Korean dubstep so avoid listening from the laptop speakers (unless this is project related).
 
-If you have problems concentrating, you might also use ear mufflers to reduce noise. Keep the venue clean. As tempting as it is to bring three pizza boxes to your project table, avoid cluttering the tables with garbage. There will be trash cans nearby emptied regularly. And if those trash cans aren’t emptied fast enough, talk with someone from STAFF.
+If you have problems concentrating, you might also use ear mufflers to reduce noise. Keep the venue clean. As tempting as it is to bring three pizza boxes to your project table, avoid cluttering the tables with garbage. There will be trash cans nearby, emptied regularly. And if those trash cans aren’t emptied fast enough, talk with someone from STAFF.
 
 As a newcomer, you’ll be introduced to a years old culture of memes, gimmicks, and references you may not get at first. You may hear about the Soft Kitty serenade. You may be introduced to the #softwood hashtag. You may hear about the Lobsters team. You may see an old cardboard mask of Celso’s face. Don’t worry, you’ll catch on (eventually).
 
