@@ -2,7 +2,7 @@
 
 This page explains how you can add the Pixels Camp schedule to your favorite desktop or mobile calendar app and make sure it's always up to date.
 
-You can always find and use the web version (mobile responsive) at this address: https://pixels.camp/schedule/
+You can always find and use the web version, which is mobile responsive and has a pretty printable version, at this address: https://pixels.camp/schedule/
 
 ## Technical details
 
@@ -33,7 +33,7 @@ Open your default Calendar.app
 
 Go to Menu > File > New Calendar Subscription
 
-![Screenshot](https://github.com/PixelsCamp/pixels_camp_2016/blob/master/img/osx_start.png?raw=true)
+![Screenshot](https://github.com/PixelsCamp/docs/blob/master/img/osx_start.png?raw=true)
 
 Enter the .ics endpoint https://api.pixels.camp/calendar/cal.ics
 
@@ -41,11 +41,11 @@ In the Location you can either choose "On My Mac" or iCloud (and then you'll hav
 
 Make sure it Auth-refreshes every hour
 
-![Screenshot](https://github.com/PixelsCamp/pixels_camp_2016/blob/master/img/osx_settings.png?raw=true)
+![Screenshot](https://github.com/PixelsCamp/docs/blob/master/img/osx_settings.png?raw=true)
 
 And you're done
 
-![Screenshot](https://github.com/PixelsCamp/pixels_camp_2016/blob/master/img/osx_subscribed.png?raw=true)
+![Screenshot](https://github.com/PixelsCamp/docs/blob/master/img/osx_subscribed.png?raw=true)
 
 ### iPhone iOS: Calendar
 
@@ -65,7 +65,7 @@ Tap Next and you're done.
 
 You can't specify the auto-refresh time like on OSX, but we guess it's frequent.
 
-![Screenshot](https://github.com/PixelsCamp/pixels_camp_2016/blob/master/img/ios_calendar.png?raw=true)
+![Screenshot](https://github.com/PixelsCamp/docs/blob/master/img/ios_calendar.png?raw=true)
 
 ### Android/Google Calendar
 
