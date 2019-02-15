@@ -17,6 +17,7 @@ Before you read these we'd like to remind of a few things:
 
 1. These are the communication channels your should subscribe:
 
+    * [The website][19], where everyting starts
     * The [Pixels Camp Blog][12], where you can find the all the important updates from us
     * [Slack][7], real-time community and participants chat
     * We have low traffic but very important e-mail [newsletter][13] that you should opt-in
@@ -26,8 +27,6 @@ Before you read these we'd like to remind of a few things:
 1. This is a living guide and is constantly being updated by the community. It can also be outdated though. Every edition comes with a few changes and we try to improve Pixels Camp with every iteration.
 
 Contributing to this document is easy and we welcome you to do so. All you need to do is clone this repository, edit this markdown document and submit a pull request with your changes. The organization will review and/or comment on your PR and merge the changes with the main document.
-
-We'd like to thank the initial contributors to this guide, [Luis Correia][1] and [Rosa Margarida][2] for taking the time and effort and write the first version for Pixels Camp v2.0.
 
 Enjoy.
 
@@ -55,32 +54,32 @@ And if you want to sleep at the venue like a pro:
 
 Avoid bringing:
 
-* Your full battlestation. The tables are pretty small (this is not like a LAN party), so a laptop and a mouse should do.
+* Your full battle station. The tables are pretty small (this is not like a LAN party), so a laptop and a mouse should do.
 * Your awesome 4K 36” monitor (it takes up WAY too much physical space).
 
 Try to keep your baggage light. You’re going to return home with freebies from the event.
 
 If you are coming with a large group of friends, make sure that one of you brings an extra power strip. While there are plenty of sockets, you might end up all together in the same table and everyone wants to charge their laptops, tablets, phones...
 
-Bring also micro-usb cables, cables for gay phones, SD card readers and miscellaneous USB port adapters. You can thank us later!
+Bring also micro-USB cables, cables for gay phones, SD card readers and miscellaneous USB port adapters. You can thank us later!
 
 ## Get to your destination
 
-From Lisboa - Santa Apolonia: You have a direct metro line (Blue) to the metro station “Parque” which is right in front of the venue building.
+From [Lisboa - Santa Apolonia][20]: You have a direct [metro line][21] (Blue) to the metro station “Parque” which is right in front of the venue building.
 
 If you get off at Lisboa - Oriente, you’ll need to travel through the Red Line until the “S.Sebastião” station, then switch for the Blue Line to get to “Parque”. Parking in the area around the venue has to be paid for. We’re trying to figure out if bicycles and bikes can be safely parked near the venue.
 
-You also have the following bus lines to get to the venue: 702, 732, 744, 746, 748, 711, 712, 720, 723, 727, 736, 738, 753, 783.
+You also have the following [bus lines][22] to get to the venue: 702, 732, 744, 746, 748, 711, 712, 720, 723, 727, 736, 738, 753, 783.
 
 ## The Basics
 
 You will need a laptop for the event, especially if you want to participate in the coding challenges. Don’t forget your chargers!
 
-Usually each table has its own power strip. Don’t hog all of the power sockets because everyone needs to plug in their computers. If there are ethernet cables too, use them if your laptop allows them instead of the wifi.
+Usually, each table has its power strip. Don’t hog all of the power sockets because everyone needs to plug in their computers. If there are ethernet cable s too, use them if your laptop allows them instead of the wifi.
 
 Speaking of wifi, expect the network to be a clusterf*ck during the first hours of the event while they’re still adjusting. Everyone is trying to connect at the same time.
 
-Please refrain from using your own 4g hotspot. Last year, organizers counted over 300 hotspots in the main hall. It makes wifi even messier. Please don’t. Go outside if you really must have your own network.
+Please refrain from using your 4g hotspot. Last year, organizers counted over 300 hotspots in the main hall. It makes wifi even messier. Please don’t. Go outside if you really must have your own network.
 
 If your smartphone and operating system support USB tethering, you might try that.
 
@@ -94,11 +93,12 @@ You should also join PixelsCamp Slack Team Make sure you bring comfortable cloth
 
 There should be some fridges stockpiled with water, sodas and energy drinks. There may also be a bar where you can get coffee.
 
-Face it: your diet during the event is going to get a kick. In past years there has been an abundance of pizza, burgers and more recently noodles. In recent events, vegetarian options have been growing. And this year there will be more healthier options available.
+Face it: your diet during the event is going to get a kick. In past years there has been an abundance of pizza, burgers and more recently noodles. In recent events, vegetarian options have been growing. And this year there will be healthier options available.
 
-Remember that everyone needs to eat, so if you want seconds or thirds it may be better to wait until everyone has had their meal to see if there are any leftovers.
+Remember that everyone needs to eat, so if you want seconds or thirds it may be better to wait until everyone has had their meal to see if there are any left
+overs.
 
-You usually have liquid yogurt, fruits and cookies during the mornings for breakfast. If you are going to participate in the nuclear <Dragon’s Breath> challenge, you may want to stockpile on the yogurts.
+You usually have liquid yogurt, fruits, and cookies during the mornings for breakfast. If you are going to participate in the nuclear <Dragon’s Breath> challenge, you may want to stockpile on the yogurts.
 
 Prepare for the return of the insta-noodles. They do make nice comfort foods at 2 am but be careful eating them in front of your laptop.
 
@@ -108,7 +108,7 @@ Please refrain to bring alcohol OF ANY KIND to the event. It’s ok if you go ou
 
 ## Night time
 
-There should be a designated sleeping/relaxation area in the venue. If not or if all areas are full, the smaller stages may be available as temporary sleeping areas as long you get out before the first talks of the day begin.
+There should be a designated sleeping/relaxation area in the venue. If not or if all areas are full, the smaller stages may be available as temporary sleeping areas as long as you get out before the first talks of the day begin.
 
 Sleeping masks and earplugs may help to avoid the light and excessive sounds from the venue as well the snoring programmer next to you.
 
@@ -138,21 +138,21 @@ Cleansing wipes are a decent shower alternative. Baby wipes work, but they leave
 
 ## Other tips
 
-With the plethora of laptops, tablets and phones available, it’s easy to get things mixed up like the chargers. Get a sticker or a label with your name on the charger so it’s not mixed up with others.
+With the plethora of laptops, tablets, and phones available, it’s easy to get things mixed up like the chargers. Get a sticker or a label with your name on the charger so it’s not mixed up with others.
 
 It’s fine to leave your stuff unattended but please lock your machine, people are... Mischievous to say the least.
 
-If you left your gear charging while you go somewhere, be prepare for it being disconnected upon your return. Power sockets are scarce and “emergency charges happen”.
+If you left your gear charging while you go somewhere, be prepared for it being disconnected upon your return. Power sockets are scarce and “emergency charges happen”.
 
-Headphones are your friends. Especially when you need mood music for coding. And remember not everyone wants to listen to your korean dubstep so avoid listening from the laptop speakers (unless this is project related).
+Headphones are your friends. Especially when you need mood music for coding. And remember not everyone wants to listen to your Korean dubstep so avoid listening from the laptop speakers (unless this is project related).
 
 If you have problems concentrating, you might also use ear mufflers to reduce noise. Keep the venue clean. As tempting as it is to bring three pizza boxes to your project table, avoid cluttering the tables with garbage. There will be trash cans nearby emptied regularly. And if those trash cans aren’t emptied fast enough, talk with someone from STAFF.
 
-As a newcomer you’ll be introduced to a years old culture of memes, gimmicks and references you may not get at first. You may hear about the Soft Kitty serenade. You may be introduced to the #softwood hashtag. You may hear about the Lobsters team. You may see an old cardboard mask of Celso’s face. Don’t worry, you’ll catch on (eventually).
+As a newcomer, you’ll be introduced to a years old culture of memes, gimmicks, and references you may not get at first. You may hear about the Soft Kitty serenade. You may be introduced to the #softwood hashtag. You may hear about the Lobsters team. You may see an old cardboard mask of Celso’s face. Don’t worry, you’ll catch on (eventually).
 
 ## Meeting people
 
-It’s fine to approach someone to ask something or just to say hi. Be aware most people may be working on a project and time can be limited. From experience people are nice to each other, be nice too.
+It’s fine to approach someone to ask something or just to say hi. Be aware most people may be working on a project and time can be limited. From experience, people are nice to each other, be nice too.
 
 Remember, you were accepted to the event, you can speak to the organizers, just don’t be pushy and use DEODORANT.
 
@@ -168,11 +168,15 @@ If you’re interested in creating or joining a project, be flexible about help 
 
 If you have a project but are missing an extra team member with a necessary set of skills, feel free to shout on Twitter or Slack. (ex.: “We need a Javascript expert for project #42, who’s interested?” or “Any interface designer available?”)
 
-It is also worth mention, if you have a great idea for a project but no means to develop it fully at the event, make a nice presentation and go on stage. Feasible ideas can be presented without fear.
+It is also worth mention if you have a good idea for a project but no means to develop it fully at the event, make a nice presentation and go on stage. Feasible ideas can be presented without fear.
 
-Don’t forget you’ll need to prepare your project for presentation. Preparing an introductory video for the project, brand image and the 90 second presentation is no small feat.
+Don’t forget you’ll need to prepare your project for presentation. Preparing an introductory video for the project, brand image and the 90-second presentation is no small feat.
 
 Allow TIME for those tasks as they are as important as the prototype you wish to present.
+
+### Thank you
+
+We'd like to thank the initial contributors to this guide, [Luis Correia][1] and [Rosa Margarida][2] for taking the time and effort and write the first version for Pixels Camp v2.0.
 
 [1]: https://pixels.camp//luisfcorreia
 [2]: https://pixels.camp/RoseCG
@@ -192,3 +196,7 @@ Allow TIME for those tasks as they are as important as the prototype you wish to
 [16]: https://www.instagram.com/pixelscamp/
 [17]: https://www.linkedin.com/showcase/pixelscamp
 [18]: https://www.youtube.com/c/PixelsCamp
+[19]: https://pixels.camp
+[20]: https://www.cp.pt/passageiros/en/train-times/Stations/lisboa-santa-apolonia--station
+[21]: https://www.metrolisboa.pt/en/
+[22]: http://www.carris.pt/en/buslines/
