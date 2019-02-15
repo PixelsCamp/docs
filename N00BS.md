@@ -165,7 +165,7 @@ As a newcomer, you’ll be introduced to a years old culture of memes, gimmicks,
 
 ![](https://github.com/PixelsCamp/docs/blob/master/img/people.png?raw=true)
 
-It’s fine to approach someone to ask something or just to say hi. Be aware most people may be working on a project and time can be limited. From experience, people are usually nice so “be excellent to each other”!.
+It’s fine to approach someone to ask something or just to say hi. Be aware most people may be working on a project and time can be limited. From experience, people are usually nice so “[be excellent to each other][26]”!.
 
 Remember, you were accepted to the event, you can speak to the organizers, just don’t be pushy and use DEODORANT.
 
@@ -216,3 +216,4 @@ We'd like to thank the initial contributors to this guide, [Luis Correia][1] and
 [23]: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 [24]: https://help.github.com/articles/cloning-a-repository/
 [25]: https://help.github.com/articles/creating-a-pull-request/
+[26]: https://www.youtube.com/watch?v=rph_1DODXDU
