@@ -28,7 +28,9 @@ Before you read these we'd like to remind of a few things:
 
 1. This is a living guide and is constantly being updated by the community. It can also be outdated though. Every edition comes with a few changes and we try to improve Pixels Camp with every iteration.
 
-Contributing to this document is easy and we welcome you to do so. All you need to do is clone this repository, edit this markdown document and submit a pull request with your changes. The organization will review and/or comment on your PR and merge the changes with the main document.
+## Contributing
+
+Contributing to this document is easy and we welcome you to do so. All you need to do is [clone][24] this repository, edit this [markdown][23] document and submit a [pull request][25] with your changes. The organization will review and/or comment on your PR and merge the changes with the main document.
 
 Enjoy.
 
@@ -218,3 +220,6 @@ We'd like to thank the initial contributors to this guide, [Luis Correia][1] and
 [20]: https://www.cp.pt/passageiros/en/train-times/Stations/lisboa-santa-apolonia--station
 [21]: https://www.metrolisboa.pt/en/
 [22]: http://www.carris.pt/en/buslines/
+[23]: https://help.github.com/articles/basic-writing-and-formatting-syntax/
+[24]: https://help.github.com/articles/cloning-a-repository/
+[25]: https://help.github.com/articles/creating-a-pull-request/
