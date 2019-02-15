@@ -127,7 +127,7 @@ Sleeping masks and earplugs may help to avoid the light and excessive sounds fro
 
 Be mindful of bean bags (if there are any). As tempting as it is to make a sleeping fort with them, others would like them too.
 
-Sleeping with the same pair of pants you’ll use the next day may not be the best thing to do, so bring some extra comfortable clothes and and maybe slippers to use during night time.
+Sleeping with the same pair of pants you’ll use the next day may not be the best thing to do, so bring some extra comfortable clothes and maybe slippers to use during night time.
 
 ## Hygiene
 
