@@ -34,6 +34,8 @@ Enjoy.
 
 ## Get your backpack ready
 
+![](https://github.com/PixelsCamp/docs/blob/master/img/backpack.png?raw=true)
+
 Essentials you should pack along with your fancy tech stuff:
 
 * Four T-shirts (one per day of the event + spare one)
@@ -67,6 +69,8 @@ Bring also micro-USB cables, cables for gay phones, SD card readers and miscella
 
 ## Get to your destination
 
+![](https://github.com/PixelsCamp/docs/blob/master/img/destination.png?raw=true)
+
 From [Lisboa - Santa Apolonia][20]: You have a direct [metro line][21] (Blue) to the metro station “Parque” which is right in front of the venue building.
 
 If you get off at Lisboa - Oriente, you’ll need to travel through the Red Line until the “S.Sebastião” station, then switch for the Blue Line to get to “Parque”. Parking in the area around the venue has to be paid for. We’re trying to figure out if bicycles and bikes can be safely parked near the venue.
@@ -74,6 +78,8 @@ If you get off at Lisboa - Oriente, you’ll need to travel through the Red Line
 You also have the following [bus lines][22] to get to the venue: 702, 732, 744, 746, 748, 711, 712, 720, 723, 727, 736, 738, 753, 783.
 
 ## The Basics
+
+![](https://github.com/PixelsCamp/docs/blob/master/img/basics.png?raw=true)
 
 You will need a laptop for the event, especially if you want to participate in the coding challenges. Don’t forget your chargers!
 
@@ -93,6 +99,8 @@ You should also join PixelsCamp Slack Team Make sure you bring comfortable cloth
 
 ## Meals and snacks
 
+![](https://github.com/PixelsCamp/docs/blob/master/img/meals.png?raw=true)
+
 There should be some fridges stockpiled with water, sodas and energy drinks. There may also be a bar where you can get coffee.
 
 Face it: your diet during the event is going to get a kick. In past years there has been an abundance of pizza, burgers and more recently noodles. In recent events, vegetarian options have been growing. And this year there will be healthier options available.
@@ -110,6 +118,8 @@ Please refrain to bring alcohol OF ANY KIND to the event. It’s ok if you go ou
 
 ## Night time
 
+![](https://github.com/PixelsCamp/docs/blob/master/img/tent.png?raw=true)
+
 There should be a designated sleeping/relaxation area in the venue. If not or if all areas are full, the smaller stages may be available as temporary sleeping areas as long as you get out before the first talks of the day begin.
 
 Sleeping masks and earplugs may help to avoid the light and excessive sounds from the venue as well the snoring programmer next to you.
@@ -123,6 +133,8 @@ Solution: Get a shirt that you’ll use exclusively during night time and comfor
 You’ll be able to work in that gear until you fall asleep and move around comfortably without looking like you’re in a slumber party.
 
 ## Hygiene
+
+![](https://github.com/PixelsCamp/docs/blob/master/img/hygiene.png?raw=true)
 
 There are no showers at the venue apparently we will now have them, the organization is working on how access will be provided.
 
@@ -154,6 +166,8 @@ As a newcomer, you’ll be introduced to a years old culture of memes, gimmicks,
 
 ## Meeting people
 
+![](https://github.com/PixelsCamp/docs/blob/master/img/people.png?raw=true)
+
 It’s fine to approach someone to ask something or just to say hi. Be aware most people may be working on a project and time can be limited. From experience, people are nice to each other, be nice too.
 
 Remember, you were accepted to the event, you can speak to the organizers, just don’t be pushy and use DEODORANT.
@@ -165,6 +179,8 @@ Okay, enough DEODORANT jokes.
 Don’t be shy! Take a break from coding and go check the rest of the venue. Check the hardware workshops, sign up for board games. Or become a god among men and women with the Karaoke Presentation.
 
 ## Starting or joining a project
+
+![](https://github.com/PixelsCamp/docs/blob/master/img/idea.png?raw=true)
 
 If you’re interested in creating or joining a project, be flexible about help you might receive.
 
