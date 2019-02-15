@@ -1,5 +1,7 @@
 # Pixels Camp Survival Kit for Newbies
 
+![](https://github.com/PixelsCamp/docs/blob/master/img/community.png?raw=true)
+
 This is a non-official survival kit for the newbies driven and written by our respected community veterans, right from the trenches of Pixels Camp.
 
 Before you read these we'd like to remind of a few things:
