@@ -56,7 +56,7 @@ And if you want to sleep at the venue like a pro:
 * Small Towel
 * Big Towel (if you plan to shower on the venue)
 * Toothbrush + toothpaste
-* XX chromosome specific products if needed
+* Other specific products you might need
 
 Avoid bringing:
 
