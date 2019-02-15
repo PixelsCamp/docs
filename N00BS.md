@@ -22,9 +22,9 @@ Before you read these we'd like to remind of a few things:
     * [The website][19], where everyting starts
     * The [Pixels Camp Blog][12], where you can find the all the important updates from us
     * [Slack][7], real-time community and participants chat
-    * We have low traffic but very important e-mail [newsletter][13] that you should opt-in
+    * We have a low traffic but very important e-mail [newsletter][13] that you should opt-in
     * You can find all our videos from past editions in our [Youtube channel][18]
-    * And of course, you follow us in [Twitter][14], [Facebook][15], [Instagram][16] and [Linkedin][17]
+    * And of course, you can follow us in [Twitter][14], [Facebook][15], [Instagram][16] and [Linkedin][17]
 
 1. This is a living guide and is constantly being updated by the community. It can also be outdated though. Every edition comes with a few changes and we try to improve Pixels Camp with every iteration.
 
