@@ -189,7 +189,7 @@ Allow TIME for those tasks as they are as important as the prototype you wish to
 
 ### Thank you
 
-We'd like to thank the initial contributors to this guide, [Luis Correia][1] and [Rosa Margarida][2] for taking the time and effort and write the first version for Pixels Camp v2.0.
+We'd like to thank the initial contributors to this guide, [Luis Correia][1] and [Rosana Margarida][2] for taking the time and effort and write the first version for Pixels Camp v2.0.
 
 [1]: https://pixels.camp//luisfcorreia
 [2]: https://pixels.camp/RoseCG
