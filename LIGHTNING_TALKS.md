@@ -10,8 +10,10 @@ This is a great opportunity for new speakers to present without the preparation 
 
 Please note that only approved candidates can submit lightning talk proposals.
 
-Lightning Talks will take place in the Chill-out zone after 5 pm on Thursday and Friday.
+Lightning Talks will take place in the Workshops zone between 6 pm and 7pm on Thursday and Friday.
 
 ## How to submit a Lightning Talk
 
-Hold tight, we will have the registration for you very soon.
+Apply [HERE](https://brpx.typeform.com/to/RtltP4)
+
+(Ricardo Malta)[https://github.com/ricmalta] and (Anton Lazarenko)[https://github.com/antonio-lazarenni] are the lightning talks masters and the primary contact if you have any doubt. Reach us on the #lightning_talks channel in the Pixels Camp slack.
