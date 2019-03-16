@@ -28,6 +28,10 @@ If your laptop doesn't have an HDMI port, then, just in case, you should bring a
 
 We will provide video adapters to speakers if they don't have one, but it will be on a best-effort, first-come-first-served basis. Don't depend on it.
 
+### Do you provide a template for my presentation slides?
+
+We don't usually provide a template for Pixels Camp presentations. The speakers are free to choose their own slides and style.
+
 ### Anything else regarding my talk?
 
 Yes, at least three things.
