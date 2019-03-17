@@ -12,7 +12,7 @@ We don't expect you to come to Pixels Camp just to attend a few talks, that's no
 
 ## What's changing this edition?
 
-We think that the ast edition's blockchain based voting [system][13] was a huge success. In fact, it worked so well that we decided to build an [MVP][14] and we're launching a startup out of that idea.
+We think that the past edition's blockchain based voting [system][13] was a huge success. In fact, it worked so well that we decided to build an [MVP][14] and we're launching a startup out of that idea.
 
 This startup is called [TAIKAI][0], a blockchain-based open innovation platform for companies, innovators, students and investors.
 
