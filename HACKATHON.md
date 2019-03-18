@@ -20,7 +20,7 @@ TAIKAI leverages on the decentralization and transparency properties that blockc
 
 The dynamics are of what you can find in the real world and a real economy.
 
-As a participant, you're also an investor in TAIKAN and you'll be awarded with KAI coins (TAIKAI's currency token) by participating in Pixels Camp activities, or by convincing others to transfer their tokens to you.
+As a participant, you're also an investor in TAIKAI and you'll be awarded with KAI coins (TAIKAI's currency token by participating in Pixels Camp activities, or by convincing others to transfer their tokens to you.
 
 When the voting starts, you can invest in the projects you like the most using your hard-earned tokens.
 
@@ -30,7 +30,7 @@ So here's what changed:
 
 * The Pixels Camp hackathon will run on [TAIKAI's website][0].
 * The Hackathon projects will also be submitted through TAIKAI.
-* You can log into TAIKAI using your Github account, the same that you used to apply to Pixels Camp.
+* You can log into TAIKAI __using your Github account__, the same that you used to apply to Pixels Camp.
 * Unlike last year, there's no need for wallets or dedicated software to vote or transfer tokens.
 * You can only start investing in the projects when the Hackathon ends at Saturday 1pm, just before stage presentations.
 * You can, however, trade your KAI coins with anyone you wish, and prepare your own strategy for when the voting starts.
@@ -63,7 +63,7 @@ Ideas, concepts, and team organization are tasks that can be thought out before 
 
 The hackathon projects must be submitted through [TAIKAI's website][0].
 
-To register a new project for your team, log into TAIKAI using your __GitHub__ account.
+To register a new project for your team, log into TAIKAI __using your GitHub account__.
 
 Head on to the Pixels Camp Hackathon challenge page to create a project.
 
@@ -75,7 +75,7 @@ INSERT_PROJECT_CREATION_SCREENSHOT_HERE
 
 You can use [Markdown][7] in the description, to make it more attractive.
 
-Now you need to enter the members of your team, a pretty cover image for your project, an optional video if you have one and your code repository, also optional.
+You'll need to enter the members of your team, a pretty cover image for your project, an optional video in the description and your code repository if you have one.
 
 When you think that everything's ready for the world to see, click "Publish".
 
@@ -93,7 +93,7 @@ INSERT_PROJECT_EDIT_SCREENSHOT_HERE
 
 Once your project is published, you'll have access to its permalinked page.
 
-This is the page that everyone sees when your project is enabled.
+This is the page that everyone will see when your project is enabled.
 
 <!--
 It deliberately tries to imitate a Kickstarter campaign because that's precisely what you'll be 
