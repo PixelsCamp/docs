@@ -20,7 +20,7 @@ TAIKAI leverages on the decentralization and transparency properties that blockc
 
 The dynamics are of what you can find in the real world and a real economy.
 
-As a participant, you're also an investor in TAIKAI and you'll be awarded with KAI coins (TAIKAI's currency token by participating in Pixels Camp activities, or by convincing others to transfer their tokens to you.
+As a participant, you're also an investor in TAIKAI and you'll be awarded with KAI coins (TAIKAI's currency token) by participating in Pixels Camp activities, or by convincing others to transfer their tokens to you.
 
 When the voting starts, you can invest in the projects you like the most using your hard-earned tokens.
 
