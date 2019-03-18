@@ -161,7 +161,7 @@ Finally, TAIKAI will award the top investors, that is, those who were able to ac
 We have a [FAQ][12] here too.
 
 [0]: https://taikai.network/
-[1]: https://blog.pixels.camp/partners
+[1]: https://pixels.camp/hackathon/#challenges
 [2]: https://github.com/PixelsCamp/docs/blob/master/SLACK.md
 [3]: https://twitter.com/pixelscamp
 [4]: https://pixels.camp/
