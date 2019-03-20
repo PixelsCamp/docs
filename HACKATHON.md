@@ -63,11 +63,13 @@ Ideas, concepts, and team organization are tasks that can be thought out before 
 
 The hackathon projects must be submitted through [TAIKAI's website][0].
 
-To register a new project for your team, [log into TAIKAI][16] __using your GitHub account__.
+When project registration opens, you can create one for your team.
+
+First [log into TAIKAI][16] __using your GitHub account__.
 
 ![Image](https://raw.githubusercontent.com/PixelsCamp/docs/master/img/taikai-login.png)
 
-Head on to the [Pixels Camp Hackathon challenge page][15] to create a project.
+Then hit "CREATE A PROJECT" in the [Pixels Camp Hackathon challenge][15] page.
 
 ![Image](https://raw.githubusercontent.com/PixelsCamp/docs/master/img/taikai-challenge.png)
 
