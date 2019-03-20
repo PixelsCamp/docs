@@ -63,11 +63,11 @@ Ideas, concepts, and team organization are tasks that can be thought out before 
 
 The hackathon projects must be submitted through [TAIKAI's website][0].
 
-To register a new project for your team, log into TAIKAI __using your GitHub account__.
+To register a new project for your team, [log into TAIKAI][16] __using your GitHub account__.
 
 ![Image](https://raw.githubusercontent.com/PixelsCamp/docs/master/img/taikai-login.png)
 
-Head on to the Pixels Camp Hackathon challenge page to create a project.
+Head on to the [Pixels Camp Hackathon challenge page][15] to create a project.
 
 ![Image](https://raw.githubusercontent.com/PixelsCamp/docs/master/img/taikai-challenge.png)
 
@@ -160,3 +160,5 @@ We have a [FAQ][12] here too.
 [12]: https://github.com/PixelsCamp/docs/blob/master/FAQ.md
 [13]: https://github.com/PixelsCamp/docs/blob/f65f092d28891d1dca0ef85775cb53a014a663ba/HACKATHON.md
 [14]: https://en.wikipedia.org/wiki/Minimum_viable_product
+[15]: https://taikai.network/pixelscamp/challenges/pixels-camp
+[16]: https://taikai.network/login?referer=/pixelscamp/challenges/pixels-camp
