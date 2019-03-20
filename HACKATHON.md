@@ -65,13 +65,16 @@ The hackathon projects must be submitted through [TAIKAI's website][0].
 
 To register a new project for your team, log into TAIKAI __using your GitHub account__.
 
+![Image](https://raw.githubusercontent.com/PixelsCamp/docs/master/img/taikai-login.png)
+
 Head on to the Pixels Camp Hackathon challenge page to create a project.
+
+![Image](https://raw.githubusercontent.com/PixelsCamp/docs/master/img/taikai-challenge.png)
 
 From there you need provide a title for your project, an intro (it will be used in the listings) and a full description of what you're planning to build with your team.
 
-<!--
-INSERT_PROJECT_CREATION_SCREENSHOT_HERE
--->
+![Image](https://raw.githubusercontent.com/PixelsCamp/docs/master/img/taikai-create-project.png)
+![Image](https://raw.githubusercontent.com/PixelsCamp/docs/master/img/taikai-create-team.png)
 
 You can use [Markdown][7] in the description, to make it more attractive.
 
@@ -79,15 +82,8 @@ You'll need to enter the members of your team, a pretty cover image for your pro
 
 When you think that everything's ready for the world to see, click "Publish".
 
-<!--
-INSERT_PROJECT_PUBLISH_SCREENSHOT_HERE
--->
-
 Press the "Edit" button whenever you feel like changing your project page.
 
-<!--
-INSERT_PROJECT_EDIT_SCREENSHOT_HERE
--->
 
 ## Check your project page
 
@@ -95,16 +91,10 @@ Once your project is published, you'll have access to its permalinked page.
 
 This is the page that everyone will see when your project is enabled.
 
-<!--
-It deliberately tries to imitate a Kickstarter campaign because that's precisely what you'll be 
-doing during the 48-hour hackathon: campaigning for your project to win, until the very last 
-projects presentation session.
--->
-
 In the page, you'll see the title of your project, cover, logo, description and the team.
 
 <!--
-INSERT_PROJECT_PAGE_SCREENSHOT_HERE
+INSERT_PROJECT_PAGE
 -->
 
 Once it's public, you can share your project page with other participants.
@@ -121,7 +111,7 @@ A number will be attributed to the project based on the creation date.
 This will be the order by which they'll be presented on the Main Stage.
 
 <!--
-INSERT_TAIKAI_PROJECTS_LISTING_SCREENSHOT
+INSERT_PROJECTS_LIST
 -->
 
 ## Project development
