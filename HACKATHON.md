@@ -73,7 +73,7 @@ Then hit "CREATE A PROJECT" in the [Pixels Camp Hackathon challenge][15] page.
 
 ![Image](https://raw.githubusercontent.com/PixelsCamp/docs/master/img/taikai-challenge.png)
 
-From there you need provide a title for your project, an intro (it will be used in the listings) and a full description of what you're planning to build with your team.
+From there you need provide a title for your project, an intro (it will be used in the listings) and a description of what you're planning to build with your team.
 
 ![Image](https://raw.githubusercontent.com/PixelsCamp/docs/master/img/taikai-create-project.png)
 ![Image](https://raw.githubusercontent.com/PixelsCamp/docs/master/img/taikai-create-team.png)
@@ -86,6 +86,7 @@ When you think that everything's ready for the world to see, click "Publish".
 
 Press the "Edit" button whenever you feel like changing your project page.
 
+![Image](https://raw.githubusercontent.com/PixelsCamp/docs/master/img/taikai-project.png)
 
 ## Check your project page
 
