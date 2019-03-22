@@ -105,7 +105,7 @@ Make sure you bring comfortable clothes to move around. Now it’s the time to d
 
 There should be some fridges stockpiled with water, sodas and energy drinks. There may also be a bar where you can get coffee.
 
-Face it: your diet during the event is going to get a kick. In past years there has been an abundance of pizza, burgers and more recently noodles. In recent events, vegetarian options have been growing. And this year there will be healthier options available.
+Face it: your diet during the event is going to get a kick. In past years there has been an abundance of pizza, burgers and noodles. Lately some healthier options were available.
 
 Remember that everyone needs to eat, so if you want seconds or thirds it may be better to wait until everyone has had their meal to see if there are any left overs.
 

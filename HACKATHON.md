@@ -63,15 +63,20 @@ Ideas, concepts, and team organization are tasks that can be thought out before 
 
 The hackathon projects must be submitted through [TAIKAI's website][0].
 
-To register a new project for your team, log into TAIKAI __using your GitHub account__.
+When project registration opens, you can create one for your team.
 
-Head on to the Pixels Camp Hackathon challenge page to create a project.
+First [log into TAIKAI][16] __using your GitHub account__.
 
-From there you need provide a title for your project, an intro (it will be used in the listings) and a full description of what you're planning to build with your team.
+![Image](https://raw.githubusercontent.com/PixelsCamp/docs/master/img/taikai-login.png)
 
-<!--
-INSERT_PROJECT_CREATION_SCREENSHOT_HERE
--->
+Then hit "CREATE A PROJECT" in the [Pixels Camp Hackathon challenge][15] page.
+
+![Image](https://raw.githubusercontent.com/PixelsCamp/docs/master/img/taikai-challenge.png)
+
+From there you need provide a title for your project, an intro (it will be used in the listings) and a description of what you're planning to build with your team.
+
+![Image](https://raw.githubusercontent.com/PixelsCamp/docs/master/img/taikai-create-project.png)
+![Image](https://raw.githubusercontent.com/PixelsCamp/docs/master/img/taikai-create-team.png)
 
 You can use [Markdown][7] in the description, to make it more attractive.
 
@@ -79,15 +84,9 @@ You'll need to enter the members of your team, a pretty cover image for your pro
 
 When you think that everything's ready for the world to see, click "Publish".
 
-<!--
-INSERT_PROJECT_PUBLISH_SCREENSHOT_HERE
--->
-
 Press the "Edit" button whenever you feel like changing your project page.
 
-<!--
-INSERT_PROJECT_EDIT_SCREENSHOT_HERE
--->
+![Image](https://raw.githubusercontent.com/PixelsCamp/docs/master/img/taikai-project.png)
 
 ## Check your project page
 
@@ -95,16 +94,10 @@ Once your project is published, you'll have access to its permalinked page.
 
 This is the page that everyone will see when your project is enabled.
 
-<!--
-It deliberately tries to imitate a Kickstarter campaign because that's precisely what you'll be 
-doing during the 48-hour hackathon: campaigning for your project to win, until the very last 
-projects presentation session.
--->
-
 In the page, you'll see the title of your project, cover, logo, description and the team.
 
 <!--
-INSERT_PROJECT_PAGE_SCREENSHOT_HERE
+INSERT_PROJECT_PAGE
 -->
 
 Once it's public, you can share your project page with other participants.
@@ -121,7 +114,7 @@ A number will be attributed to the project based on the creation date.
 This will be the order by which they'll be presented on the Main Stage.
 
 <!--
-INSERT_TAIKAI_PROJECTS_LISTING_SCREENSHOT
+INSERT_PROJECTS_LIST
 -->
 
 ## Project development
@@ -181,3 +174,5 @@ We have a [FAQ][12] here too.
 [12]: https://github.com/PixelsCamp/docs/blob/master/FAQ.md
 [13]: https://github.com/PixelsCamp/docs/blob/f65f092d28891d1dca0ef85775cb53a014a663ba/HACKATHON.md
 [14]: https://en.wikipedia.org/wiki/Minimum_viable_product
+[15]: https://taikai.network/pixelscamp/challenges/pixels-camp
+[16]: https://taikai.network/login?referer=/pixelscamp/challenges/pixels-camp
