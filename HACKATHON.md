@@ -146,7 +146,18 @@ At 3 pm the final projects presentation begins. Everyone should be ready to get 
 
 Each project will be presented on stage by a single representative team member, who'll have 90 seconds to pitch and/or demo your project.
 
+As a viewer you should take notes about the Projects you like best. Then click on the "**BACK THIS PROJECT**" button to vote.
+
+![Image](https://raw.githubusercontent.com/PixelsCamp/docs/master/img/back-this-project.png)
+
+Transfer as many KAI tokens as you think the project deserves. You put the eggs in several baskets or go all-in. It's up to you! 
+
+ 
+
 To get a sense of what we're talking about, take a look at last year's [project presentations video][10].
+
+
+After the project presen
 
 ## Awards
 
