@@ -113,9 +113,9 @@ A number will be attributed to the project based on the creation date.
 
 This will be the order by which they'll be presented on the Main Stage.
 
-<!--
-INSERT_PROJECTS_LIST
--->
+
+![Image](https://raw.githubusercontent.com/PixelsCamp/docs/master/img/projects-list.png)
+
 
 ## Project development
 
