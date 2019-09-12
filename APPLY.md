@@ -1,38 +1,40 @@
-# How to apply to Pixels Camp
+# How to Apply to Pixels Camp
 
-Applying to Pixels Camp is one of the most important steps towards spending three days with an amazing community of developers and tech enthusiasts in an unforgettable experience of hacking, learning, sharing and having fun.
+Applying to Pixels Camp is one of the most important steps towards spending three days with an amazing community of developers and tech enthusiasts in an unforgettable experience of hacking, learning, sharing, and having fun.
 
 A few rules you need to know about Pixels Camp first:
 
-* The event is 100% free for participants, but there's a selection process.
-* It's targeted at technology inclined creative minds. This means developers, designers, product makers, hackers, scientists, etc., of all ages or trades.
-* Based on their pitch, bios, and previous work evidence, the curators aim at selecting the best, most participative and motivated programmers and creatives.
-* Applications to Pixels Camp are individual and private. There are no company applications.
-* You can't ask for a friend to be accepted, but you can ask your friend to read this document and help them with their bio and pitch. Effort and detail count in our evaluation.
-* Our authentication and SSO is based on Github's APIs, which means you need [an account][2].
+  * The event is **100% free** for participants, but there's a screening process.
+  * It's targeted at **technology-inclined creative minds**. This means developers, designers, makers, hackers, scientists, hobbyists of all ages and trades.
+  * Based on their pitch, bios, and previous work evidence, the curators aim at selecting the best, most participative and motivated participants.
+  * Applications to Pixels Camp are **individual** and private. There are no company or group applications.
+  * You can't request for a friend to be accepted, but you can ask your friends to read this document and help with their bios and pitches. Effort and detail counts in our evaluation (quality over quantity).
+  * Our authentication and SSO is based solely on GitHub APIs, which means you need a [GitHub account][2].
 
-When applying, we're going to ask you some contact information, and two critical free text answers. They are your public bio and your registration pitch.
+When applying, we're going to ask you some contact information, and two critical free text answers. They are your public bio and your private registration pitch.
 
-On your public bio you should reference who you are, what you do, and how can the community reach you (your blog, twitter, etc.). Everyone can see this. Think of it as your welcome card.
+On your public bio you should reference who you are, what you do, and how can the community reach you (eg. your blog or twitter profile). Everyone can see this. Think of it as your welcome card.
 
-On the *private* registration pitch you should spend some time perfecting your answer. This is where we need effort and detail. Think of the pitch as the place where you describe your history in tech world to us, your best work and accomplishments, what excites you when you look at the future,  what's your motivation to be at Pixels Camp and why should we accept your application.
+On the *private* registration pitch you should spend some time perfecting your answer. This is where we ask for effort and detail. Think of the private pitch as the place where you describe your history in the tech world to us, your best work and accomplishments, what excites you when you look at the future, your motivation to be at Pixels Camp, and why should we accept your application.
 
-Here's a quick checklist of information we need in the pitch:
+Here's a quick checklist of some of the information we expect to see in your private pitch:
 
-* Technologies you work with
-* Projects you’ve done
-* Things you’re interested in
-* Why you want to attend Pixels Camp
-* If you’ve been at previous similar events, what you did there
-* Why should we accept your application
+  * Technologies you work (or play) with;
+  * Projects you’ve done;
+  * Things you’re interested in;
+  * Why you want to attend Pixels Camp;
+  * If you’ve been at previous similar events, what you did there;
+  * Why should we accept your application.
 
-**Remember**: we don’t have the bandwidth to go sneaking on your personal webpage or blog looking for this information. You have to make it available in your Bio or Pitch. Fail at providing this information and you'll be making our life hard in the selection process.
+If you haven't already done so in your public bio, the private pitch must include your real identity (i.e. your real name). 
 
-Again, the pitch is private. Only a small group of selected curators has access to it.
+**Remember**: We don’t have the bandwidth to go sneaking on your personal webpage or blog looking for information. You have to make it available in your bio or private pitch. Not providing enough information may prevent us from being able to accept your application. On the other hand, providing to much information may also difficult the selection process, so be succint yet complete. 😉
 
-Good luck.
+The private pitch is **private**. Only a small group of Pixels Camp curators has access to it and it isn't shared with any outside entity (eg. sponsors).
 
-Check our [FAQ][1] for more answers.
+We hope to see you at the next Pixels Camp. Good luck.
+
+Check our general [FAQ][1] for more answers.
 
 [1]: https://github.com/PixelsCamp/docs/blob/master/FAQ.md
 [2]: https://github.com/join
