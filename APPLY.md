@@ -34,6 +34,8 @@ The private pitch is **private**. Only a small group of Pixels Camp curators has
 
 We hope to see you at the next Pixels Camp. Good luck.
 
+https://pixels.camp/apply
+
 Check our general [FAQ][1] for more answers.
 
 [1]: https://github.com/PixelsCamp/docs/blob/master/FAQ.md
