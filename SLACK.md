@@ -4,7 +4,7 @@
 
 The Pixels Camp organization provides a Slack instance to help the community take the best from the event. This guide provides a policy and some guidelines on how to use Slack in this context.
 
-### GENERAL
+## HOW AND WHY
 
 **What is Slack?**
 
@@ -40,7 +40,7 @@ We have good news for you. Slack has marvelous controls over notification settin
 
 You can do this to other channels as well, and you can turn off all notifications except direct mentions of yourself if you wish (some members of the organization would say this is the sanest option).
 
-### CODE OF CONDUCT
+## CODE OF CONDUCT
 
 **Use english**
 
@@ -70,7 +70,7 @@ We can't enforce this technically, but we're expecting you to comply.
 
 Read above on the nickname arguments. Consider using a real photo of yourself.
 
-### COMMON CHANNELS
+## COMMON CHANNELS
 
 Here's a list of common channels you should be aware of:
 
@@ -78,11 +78,11 @@ Here's a list of common channels you should be aware of:
 
 General announcements about Pixels Camp. Everyone should subscribe it. Low traffic.
 
-### #hackathon
+#### #hackathon
 
 Questions and general discussion about the 48h hackathon.
 
-### #quizshow
+#### #quizshow
 
 Support group for the quizmaster's "victims". Most active before Pixels Camp, with participants seeking hints and helping eachother get through the quiz qualifiers.
 
