@@ -16,7 +16,7 @@ It's open to anyone willing to talk about hard-core tech with the Pixels Camp co
 
 **How can I join?**
 
-When you're accepted as an [attendee][5], you'll automatically get an **invite** via email if you haven't joined already. To join before being accepted, you can ask a friend who's already there to send you an invite.
+When you're accepted as an [attendee][5], you'll automatically get an **invite** via email if you haven't joined already. To join before being accepted, you can **ask a friend** who's already there to send you an invite.
 
 **Do I really need to join?**
 
