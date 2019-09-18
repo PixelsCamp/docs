@@ -4,12 +4,6 @@
 
 The Pixels Camp organization provides a Slack instance to help the community take the best from the event. This guide provides a policy and some guidelines on how to use Slack in this context.
 
-**What is Slack?**
-
-Slack provides a rich communication platform where its members can exchange messages and files. It's both a way for the Pixels Camp community to interact with each other, as well with the organization. It's most active during the weeks around Pixels Camp, but it's available throughout the year.
-
-More about Slack [here][1]
-
 **Who can join?**
 
 It's open to anyone willing to talk about hard-core tech with the Pixels Camp community. If you fit this profile, then by all means, join us.
@@ -98,7 +92,6 @@ The one and **only** place you can post occasional job offers. Opt-in. Remember:
 
 Hardware geeks hang out here.
 
-[1]: https://slack.com/is
 [2]: https://twitter.com/pixelscamp
 [3]: https://www.instagram.com/pixelscamp/
 [4]: https://www.facebook.com/pxlscmp/
