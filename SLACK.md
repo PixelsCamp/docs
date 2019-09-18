@@ -4,8 +4,6 @@
 
 The Pixels Camp organization provides a Slack instance to help the community take the best from the event. This guide provides a policy and some guidelines on how to use Slack in this context.
 
-## HOW AND WHY
-
 **What is Slack?**
 
 Slack provides a rich communication platform where its members can exchange messages and files. It's both a way for the Pixels Camp community to interact with each other, as well with the organization. It's most active during the weeks around Pixels Camp, but it's available throughout the year.
@@ -18,7 +16,7 @@ It's open to anyone willing to talk about hard-core tech with the Pixels Camp co
 
 **How can I join?**
 
-When you're accepted as an [attendee][5], you'll automatically get an invite via email if you haven't joined already. To join before being accepted, you can ask anyone already there to send you an invite.
+When you're accepted as an [attendee][5], you'll automatically get an **invite** via email if you haven't joined already. To join before being accepted, you can ask a friend who's already there to send you an invite.
 
 **Do I really need to join?**
 
