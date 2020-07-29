@@ -1,6 +1,6 @@
 # The Pixels Camp F.A.Q.
 
-It's normal for those attending [Pixels Camp](https://pixels.camp) to have a few questions or concerns. We'll try to address the most common ones below. Please read this document first, but feel free to [contact us](mailto:org@pixels.camp) if doesn't contain the answers you're looking for.
+It's normal for those attending [Pixels Camp](https://pixels.camp) to have a few questions or concerns. We'll try to address the most common ones below. Please read this document **first**, but feel free to [contact us](mailto:org@pixels.camp) if it doesn't contain the answers you're looking for.
 
 
 ## GENERAL QUESTIONS
