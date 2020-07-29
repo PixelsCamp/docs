@@ -13,7 +13,7 @@ Pixels Camp is a yearly technology event in Lisbon, spanning three days of non-s
 
 The Pixels Camp organization is a team of die hard geeks which includes a number of ex-[codebits](https://en.wikipedia.org/wiki/SAPO_Codebits) organizers and veterans. All of whom pour their hearts, souls, and time (their own as well as their employers') into making Pixels Camp a true not-for-profit community experience.
 
-It relies on commercial sponsors to make it happen, of course, since it's an expensive event and we want to make sure it remains free for all participants. The organizers take pride in threading that fine line (successfully, so far). We've had great sponsors. :)
+It relies on commercial sponsors to make it happen, of course, since it's an expensive event to make and we want to ensure it remains free for all participants. The organizers take pride in threading that fine line (successfully, so far). We've had great sponsors. :)
 
 * **Who can attend Pixels Camp?**
 
