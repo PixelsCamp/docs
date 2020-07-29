@@ -1,13 +1,19 @@
-# Pixels Camp F.A.Q.
+# The Pixels Camp F.A.Q.
 
-It's normal for those attending [Pixels Camp](https://pixels.camp) to have a few questions or concerns. We'll try to address most of these below.
+It's normal for those attending [Pixels Camp](https://pixels.camp) to have a few questions or concerns. We'll try to address the most common ones below. Please read this document first, but feel free to [contact us](mailto:org@pixels.camp) if doesn't contain the answers you're looking for.
 
 
 ## GENERAL QUESTIONS
 
 * **What is Pixels Camp?**
 
-Pixels Camp is a yearly technology event, spanning over three days of non-stop technical talks, workshops, competitions, and coding. For 60 hours straight, around 1000 participants can enjoy world-class presentations, demos, community events, and its classic 48-hour coding competition.
+Pixels Camp is a yearly technology event in Lisbon, spanning three days of non-stop technical talks, workshops, competitions, and coding. For 60 hours straight, over 1000 participants can enjoy world-class presentations, demos, community events, and its classic 48-hour hackathon.
+
+* **Who organizes Pixels Camp?**
+
+The Pixels Camp organization is a team of die hard geeks which includes a number of ex-[codebits](https://en.wikipedia.org/wiki/SAPO_Codebits) organizers and veterans. All of whom pour their hearts, souls, and time (their own as well as their employers') into making Pixels Camp a true not-for-profit community experience.
+
+It relies on commercial sponsors to make it happen, of course, since it's an expensive event and we want to make sure it remains free for all participants. The organizers take pride in threading that fine line (successfully, so far). We've had great sponsors. :)
 
 * **Who can attend Pixels Camp?**
 
